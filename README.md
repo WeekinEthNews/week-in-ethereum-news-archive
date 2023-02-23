@@ -11,7 +11,7 @@ Edited by [Andrew B Coathup](https://twitter.com/abcoathup) (since May 16, 2021)
 
 ### Generate Archive
 
-1. Export Posts with status `published`
+1. Export Posts from word press with status `published`
 
 2. Convert XML to markdown: 
 `npx wordpress-export-to-markdown --wizard false --input export.xml --output archive --year-folders true --post-folders false --save-scraped-images false`
