@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 5, 2020"
 date: "2020-07-05"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -91,7 +91,7 @@ date: "2020-07-05"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [GridPlus is hiring](https://gridplus.io/careers) US remote firmware engineers.
 - [Donut](https://www.donut.app/about) is looking for a CTO to bring DeFi to the masses. Interested?
@@ -104,7 +104,7 @@ date: "2020-07-05"
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get most of the newsletter as it happens.
 
@@ -114,7 +114,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-july-5-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

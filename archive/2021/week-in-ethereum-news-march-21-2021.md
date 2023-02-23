@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> March 21, 2021"
 date: "2021-03-21"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -102,7 +102,7 @@ Trail of Bits wants YOU to [apply for a position](https://www.trailofbits.com/c
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - ethereum.org is [hiring a front end dev](https://ethereum.bamboohr.com/jobs/view.php?id=32)
 - Building blockchains with [ChainSafe](https://chainsafe.io/careers/openpositions). Join us! [Rust](https://chainsafe.io/careers/openpositions/rust-developer), [Golang](https://chainsafe.io/careers/openpositions/lead-golang-developer), [Solidity](https://chainsafe.io/careers/openpositions/solidity-engineer), [TS](https://chainsafe.io/careers/openpositions/ethereum-typescript-developer)
@@ -126,7 +126,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 17, 2021"
 date: "2021-07-17"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -124,7 +124,7 @@ Check out our [EthCC talk on the Rainbow Bridge](https://ethcc.io/agenda)! “Th
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Prysmatic labs: [Software Development Engineer in Test (SDET)](https://prysmaticlabs.com/careers/sdet)
 - [Synthetix](https://twitter.com/kaiynne/status/1415573456146501634): 2 Solidity engineers to work direct with Kain Warwick in Sydney
@@ -140,7 +140,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

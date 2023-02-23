@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Feb 7, 2021"
 date: "2021-02-07"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -89,7 +89,7 @@ Chainlink Labs is hiring! [Explore our open roles](http://chn.lk/careers) and co
 
 * * *
 
-###### **Job Listing**
+## **Job Listing**
 
 - [Showtime](https://twitter.com/tryshowtime), the NFT social network, is hiring for a [founding engineer](https://www.notion.so/showtimeinc/Showtime-Founding-Engineer-8b7d7053fd1a4418968bd3706ecbb6c2)
 - [Pocket](http://pokt.network) is hiring a [developer growth lead](http://bit.ly/POKTEcosystemDev_GrowthLead) to supercharge dev adoption**←apply**
@@ -111,7 +111,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

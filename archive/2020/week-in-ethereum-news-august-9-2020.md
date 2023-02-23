@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 9, 2020"
 date: "2020-08-09"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -101,7 +101,7 @@ Stay current: learn about the latest composability risk [Sam Sun found in yEarn
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - mStable is looking for developers: [see 3 open roles](https://cryptocurrencyjobs.co/startups/mstable/)
 - OpenZeppelin: [Security Services Lead](https://openzeppelin.com/jobs/security-services-lead/), [Security Platform Dev](https://openzeppelin.com/jobs/security-platform-developer/) & [Open Source Dev](https://openzeppelin.com/jobs/open-source-developer/)
@@ -114,7 +114,7 @@ Stay current: learn about the latest composability risk [Sam Sun found in yEarn
 
 * * *
 
-###### **Week in Eth News available sponsor slots tokenized as $EVAN**
+## **Week in Eth News available sponsor slots tokenized as $EVAN**
 
 This week, I [tokenized a few available sponsorship slots for this newsletter](https://www.evanvanness.com/post/625827671656595456/24-hours-of-evan-token) as $EVAN. I also added a few more redemption options. Without me doing anything it got listed on CoinGecko and CoinMarketCap, as well as a semi-accurate CoinTelegraph article. Check it out if you’re interested in my experiment in tokenizing indie media sponsorship space.
 
@@ -124,7 +124,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

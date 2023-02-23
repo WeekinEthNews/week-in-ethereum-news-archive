@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 23, 2020"
 date: "2020-08-23"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -101,7 +101,7 @@ Come learn about the leading ideas in DeFi from top teams building the next wave
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - MyCrypto's hiring [frontend wizards](https://mycrypto.bamboohr.com/jobs/view.php?id=22&source=aWQ9Ng%3D%3D…). Remote. ~UTC-7. Go all in this bull run.
 - Celer Network: [Android developer](https://www.celer.network/career.html)
@@ -113,7 +113,7 @@ Come learn about the leading ideas in DeFi from top teams building the next wave
 
 * * *
 
-###### **I’m making daily crypto videos**
+## **I’m making daily crypto videos**
 
 Every day, I’m making [5 minute videos on YouTube](https://www.youtube.com/channel/UCHp-CVlamUCjl3z0KBivHmg).
 
@@ -127,7 +127,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

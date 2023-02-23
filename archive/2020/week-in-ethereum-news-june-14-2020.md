@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 14, 2020"
 date: "2020-06-14"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -96,7 +96,7 @@ Contract upgrades are not as safe as you think. Trail of Bits has [catalogued 17
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Reflexer Labs (RAI): [smart contract dev lead](https://angel.co/company/reflexer-labs/jobs/856024-smart-contract-lead-developer-ethereum), [fullstack JS dev](https://angel.co/company/reflexer-labs/jobs/856033-backend-javascript-web3-developer), [python/devops lead](https://angel.co/company/reflexer-labs/jobs/856049-python-devops-lead-web3-ethereum)
 - Aave: Solidity Rockstar? let's build the future of DeFi together wecare@aave.com
@@ -111,7 +111,7 @@ Contract upgrades are not as safe as you think. Trail of Bits has [catalogued 17
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -121,7 +121,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-june-14-2020/]
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

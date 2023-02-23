@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 15, 2020"
 date: "2020-11-15"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -99,7 +99,7 @@ The Chainlink community grant program provides substantial financial support to 
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Blocknative](https://www.blocknative.com/) is hiring [Front-end, Back-end, and DevOps engineers](https://jobs.lever.co/blocknative?lever-origin=applied&lever-source=thisweekinETH). (Remote)
 - Live for DeFi? [mStable](https://mstable.org/) seeks experienced [Smart Contract/Protocol Dev](https://cryptocurrencyjobs.co/engineering/mstable-protocol-developer-defi/)
@@ -112,7 +112,7 @@ The Chainlink community grant program provides substantial financial support to 
 
 * * *
 
-###### **Download The Crypto News Podcast**
+## **Download The Crypto News Podcast**
 
 Episode 3: ZapperFi’s [DefiDad](https://thecryptonewspodcast.com/defidad)
 
@@ -132,7 +132,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-et
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

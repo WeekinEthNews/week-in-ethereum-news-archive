@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> December 4, 2021"
 date: "2021-12-04"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -144,7 +144,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

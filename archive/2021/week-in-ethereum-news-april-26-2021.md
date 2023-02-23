@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> April 26, 2021"
 date: "2021-04-26"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -109,7 +109,7 @@ Follow Celer on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Matter Labs is hiring [engineering, operational & community roles](https://www.notion.so/matterlabs/Career-at-Matter-Labs-4a69ed0f7acb45c89f662cf12dbc2464) for zkSync
 - Join our team to help [bring Ethereum into governments as a dApp developer](https://www.notion.so/symfoni/Symfoni-jobs-0c2bdc029d2a4cf7b91864a5e68ed00f)
@@ -132,7 +132,7 @@ Permalink for this week’s issue:
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

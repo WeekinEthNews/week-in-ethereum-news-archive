@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> May 31, 2020"
 date: "2020-05-31"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -90,7 +90,7 @@ Connect your smart contract to decentralized oracles that provide the most tampe
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -100,7 +100,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-may-31-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

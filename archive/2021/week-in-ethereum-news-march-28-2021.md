@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> March 28, 2021"
 date: "2021-03-28"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -111,7 +111,7 @@ Now you can [trade 1000+ DeFi tokens](https://matcha.xyz/?id=wien) on Matcha!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - New DeFi protocol Tokemak seeks [Solidity](https://opolist.opolis.co/opps/8/) and [Frontend](https://opolist.opolis.co/opps/9/) devs. Attractive comp
 - Gnosis is hiring! [Ethereum Core Developer](http://bit.ly/3cZMzeS), [Frontend Engineer](http://bit.ly/3vM126R), [Rust Engineer](http://bit.ly/3f1Jkq7)
@@ -133,7 +133,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

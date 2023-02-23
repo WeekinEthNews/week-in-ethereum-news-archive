@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 21, 2020"
 date: "2020-06-21"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -103,7 +103,7 @@ Sign up here to get early access to [Matcha](https://matcha.xyz/?id=weekinethere
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Synthetix: Deep [Solidity engineer](https://docs.google.com/document/d/1xtEyu2pBszNRYjWyzNxndFipIORr5RnyhzJQNprBMm8/edit#heading=h.pdeo1jdmjhxc), 2+ years exp & US/EU friendly timezone
 - Chainlink: [Product Manager for Blockchain Integrations](https://careers.smartcontract.com/o/product-manager-blockchain-integrations) and [Lead Test Engineer](https://careers.smartcontract.com/o/lead-test-engineer-on-chainlink)
@@ -115,7 +115,7 @@ Sign up here to get early access to [Matcha](https://matcha.xyz/?id=weekinethere
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -125,7 +125,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-june-21-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Eth News <BR> October 25, 2020"
 date: "2020-10-25"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -96,7 +96,7 @@ Follow us on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog.ce
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Want a new challenge? [mStable](https://twitter.com/mstable_) seeks experienced [Smart Contract/Protocol Dev](https://cryptocurrencyjobs.co/engineering/mstable-protocol-developer-defi/)
 - DeFi devs! Yield is hiring for Solidity and front-end – contact@yield.is
@@ -109,7 +109,7 @@ Follow us on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog.ce
 
 * * *
 
-###### **Wanton self-promotion section**
+## **Wanton self-promotion section**
 
 If you’re wondering “[why didn’t my post make it into Week in Ethereum News](https://www.evanvanness.com/post/179914035841/why-didnt-my-post-make-the-newsletter),” then please put it on an Ethereum subreddit; emails/DMs are not part of my workflow.
 
@@ -121,7 +121,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-et
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

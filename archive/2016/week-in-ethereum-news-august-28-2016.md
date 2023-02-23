@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 28, 2016"
 date: "2016-08-28"
 ---
 
-######   
+##   
 My Investing Thesis \[Work-In-Progress\]  
 
 How do you make money on the internet?  According to an overused saw, it’s the 3 Ps: [pills, porn, and poker](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F148220020896%2Fa-scenario-where-ethereum-classic-could-overtake&t=YzQ3MzFlOGE2YWVkZDFjMTUyNjQ3OGY0ZDM3ZTc3NzI2MGExM2YxNyxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).
@@ -24,7 +24,7 @@ _Drugs_. Silk Road paved the way for Bitcoin’s (relative) success, though it s
 
 _Gambling_ seems like a fairly natural fit for Ethereum’s early stages.   Even better if we can use [gambling for societal good](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F130187978661%2Faugur-uber-for-knowledge&t=N2NmNzgwMzYyM2I0MWRjYWE4M2EzM2I2Yzc0MzI5YzJiZWY0MGZiNCxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).   
 
-###### Did I say Gambling?  I meant Finance.
+## Did I say Gambling?  I meant Finance.
 
 The difference between gambling, trading, investing, hedging, insurance etc etc is…?
 
@@ -32,7 +32,7 @@ Largely semantic.  It wasn’t that long ago that stock markets were considered
 
 Speaking of finance…   
 
-###### Banks and Ethereum
+## Banks and Ethereum
 
 **CONTEXT:**
 
@@ -51,7 +51,7 @@ Two big announcements this week
 
 _MY TAKE_: Private chains using Ethereum-like technology can only be a good thing, even if they don’t run on the Ethereum blockchain.
 
-###### Vitalik’s candid assessment of the fork that almost no one has seen
+## Vitalik’s candid assessment of the fork that almost no one has seen
 
 Vitalik was asked by someone who wants to fork BTC what [lessons they should learn from the ETH fork](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F4yvmzu%2Fif_another_hard_fork_happened_again_in_the_future%2Fd6rj0oe&t=MTk5MzU2MjI3YTRkOTc4NGY4YWI0ZjRlMTQ1MWViNzY5NjkwOGUzNyxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).  Almost no one has seen Vitalik’s comment in response because the post got deleted.
 
@@ -64,13 +64,13 @@ A few observations:
 3. He appears to imply that part of ETC’s problem is lack of credibility.  He’s right, and that’s part of why [I dumped my ETC](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F148442932156%2Fselling-my-ethc-or-how-an-ethereum-anti-forker&t=M2M5MjMyZTUwYmExNTRjNjk5YjNjZmZlOGJjOGVhODA5ZjA5MGZlMixtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0) despite being [against that particular hard fork implementation](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F147468173531%2Ftis-the-question-to-fork-or-not-to-fork&t=NDczY2FmNGQ3ZTRlMDc3M2E2ODE4YmY4ZDQ5NWQ4NGE0NGEwMTcxZSxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).
 4. He’s also right that ETC would have done much better if it had (A) dual client ready, (B) decent block explorers, and © solutions for replay attacks. \[Though ETH also should’ve had a solution for replay attacks.\]
 
-###### THE Dao Silver Lining: Improved Smart Contract Security
+## THE Dao Silver Lining: Improved Smart Contract Security
 
 - Researchers from Microsoft, INRIA & Harvard published a paper on outlining a “[framework to analze and formally verify Ethereum smart contracts](https://t.umblr.com/redirect?z=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fnswamy%2Fpapers%2Fsolidether.pdf&t=ZjMxY2RjZDdhZmM3YjgxMDhmNGQ2Mjg5ZTYwOWEwN2UxN2NlYTEwZSxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).” It’s a relatively limited tool as it couldn’t read much of Solidity’s syntax, yet it could “translate and typecheck 46 out of the 396 contracts” found on the EtherScan block explorer.
     - The scary part? “only a handful” were completely safe per this tool, thus “large scale analysis of published contract is likely to uncover widespread vulnerabilities.”   Maybe. Given the tool’s limitations, I could definitely see a very real possibility that the contracts that their tool analyzed were old or contracts where not much money was at stake.
     - Bottom line: The silver lining to TheDAO is that lots of smart minds have been drawn to making sure that smart contracts can and are written securely.
 
-###### Quick hits
+## Quick hits
 
 - [Building a (fun) game on Ethereum](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.cointagion.com%2F2016%2F08%2F24%2Fpart-i%2F&t=NGY2Zjc0NGVhZmIzNzBkZTUyMjMyMDYyODg4MDQ4MzM2YWFkMmRiYyxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).   A surprisingly great read, even though I almost closed the tab after a few seconds.   Constraints produce innovation!
 - So you want to [learn to code in Ethereum](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F4z4y81%2Fany_advice_on_learning_to_code_in_ethereum%2F&t=ZWM0ZWQyN2M3OGNkMGI3MWFkZDgzNGVhY2Q0YmY5NzZhNDAxODM3MCxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).
@@ -83,7 +83,7 @@ A few observations:
 - Solid Bloomberg piece, but a bit on the hype side: [This Is Your Company on Blockchain](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2016-08-25%2Fthis-is-your-company-on-blockchain&t=MjVmZTkyOGM2OWY4MGZhYTMyZGY3YzgwZjUyNWZjYzVhOThiYzE1MixtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0).   
     
 
-###### Dates of note
+## Dates of note
 
 - 8/29 –  [Hong](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.hongcoin.org%2F&t=NTFlNmE1Yzg3NGFhOTVlNDE3ZjMwNjdjNDhlNTkxZWRhYzg3YTFjZSxtaE5CRG9Ieg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180529233%2Faugust-28-2016&m=0) crowdsale begins.  Similar to TheDAO in concept.
 - 8/31 – TheDAO attacker can move his Ether Classic. Expect ETC price to drop.

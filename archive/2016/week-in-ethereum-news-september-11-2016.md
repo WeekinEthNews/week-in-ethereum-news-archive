@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 11, 2016"
 date: "2016-09-11"
 ---
 
-###### Quick Hits  
+## Quick Hits  
 
 **Tech**
 
@@ -36,7 +36,7 @@ date: "2016-09-11"
 - Lots of blockchain hype in the MSM lately.  This week’s: CIO Magazine [How Blockchain Will Disrupt Your Business](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.cio.com%2Farticle%2F3115776%2Finternet%2Fhow-blockchain-will-disrupt-your-business.html&t=MDMwZTMyZDZhZDI4Nzk3ZTE0ZmM5OWQ1YTdjMjJiNjE5N2NjNjE0YixXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0)
 - [Accenture comes out as pro-hard fork](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.nytimes.com%2F2016%2F09%2F10%2Fbusiness%2Fdealbook%2Fdownside-of-virtual-currencies-a-ledger-that-cant-be-corrected.html&t=MjNkZDhiMDNmYWE4YTU2NjJiMDVmYTEyODM4YzZjYjE2ZjAyYzY0ZSxXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0) in the New York Times’ Dealbook blog.
 
-###### Dates of note
+## Dates of note
 
 - September “16” – [SingularDTV](https://t.umblr.com/redirect?z=https%3A%2F%2Fsingulardtv.com%2Fsign-up&t=OWEwOTNmMWE0YTU3N2QyOWRlYjVhOGNiMjAzZTNmZTgwMWY2NzY2NCxXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0) crowdsale may open (unclear)
 - 9/19 - 9/21 – [DevCon2](https://t.umblr.com/redirect?z=https%3A%2F%2Fethereumfoundation.org%2Fdevcon%2F&t=ZGEzNzJhYTI5YjgxNTA3MWIyMWE1MDMxYWU0NjQ0ZWYxZTJmN2FkZSxXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0)  (!!!)
@@ -46,7 +46,7 @@ date: "2016-09-11"
 - 9/29 - [Iconomi](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.iconomi.net%2F&t=OWZjMTAwYjAzZjM5MmI1NjQzZjg3Mjg4YTc5Njg0MDE3MmIzZWQ4OSxXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0) closes
 - 9/30 – Coinbase to release ETC, presumably meaning many DAO investors will sell their ETC for ETH.
 
-###### Decentralize Facebook/Reddit etc?
+## Decentralize Facebook/Reddit etc?
 
 The players in “decentralized content” space in crypto so far seem to be Steemit, Akasha, Synero, and Decent.  Only Akasha is on Ethereum.  These are my notes so far:
 
@@ -60,7 +60,7 @@ The players in “decentralized content” space in crypto so far seem to be Ste
 
 **Overall**: thinking about these projects has made me feel like their commercial viability is not close. That fits my [investing thesis](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F150000659151%2Fwhats-happening-in-ethereum-issue-2-82816&t=YmY4ZjNiMzM0NjBkMjRiZWZmNzM3ZDljYzYzNmMzNTFkOGNiMDFkMixXdEo3N0kxZg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155179806413%2Fseptember-11-2016&m=0). However, Steemit’s relative success despite being so top-heavy might point to the fact that a good “hook” to get users onto the site can get the network effects necessary to make one of these projects take off.
 
-###### Bonus Content – My Current Framework Analyzing ICOs
+## Bonus Content – My Current Framework Analyzing ICOs
 
 **LAST CHANCE**: I wrote a framework of how I analyze Ethereum ICOs, including a checklist of questions I ask myself.  It’s two pages, so too long to put in this email.  
 

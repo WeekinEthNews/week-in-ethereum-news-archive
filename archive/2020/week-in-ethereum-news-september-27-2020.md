@@ -3,7 +3,7 @@ title: "Week in Eth News <BR> September 27, 2020"
 date: "2020-09-27"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -86,7 +86,7 @@ date: "2020-09-27"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - DeFi devs! Yield is hiring for Solidity and front-end – contact@yield.is
 - Mainframe is hiring a [Senior Front End Engineer](https://cryptocurrencyjobs.co/engineering/mainframe-senior-front-end-engineer/)
@@ -101,7 +101,7 @@ date: "2020-09-27"
 
 * * *
 
-###### 🥩 **Staking pool questionnaire: October 15** 🥩 
+## 🥩 **Staking pool questionnaire: October 15** 🥩 
 
 My [questionnaire for staking pools](https://docs.google.com/document/d/1wrzKXff2XwY4Bu5ynVqvlPXI4xqM4-Hwx7Jh7_-1IGg/edit) will be due October 15th.
 
@@ -115,7 +115,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

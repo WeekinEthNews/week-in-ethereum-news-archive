@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> April 4, 2021"
 date: "2021-04-04"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -112,7 +112,7 @@ For more ideas for grants [check out our list of RFPs](https://www.notion.so/RFP
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Mark Cuban is [hiring a Solidity developer](https://forms.office.com/pages/responsepage.aspx?id=eXzVWmTuiUmTrcjxzHRKl4CqH2xfzK5LnnIqG9Y7LxlURVc5ODdUUVhIVUxPUEQyNzA0NU9ESlRPNC4u). Send a code sample to apply. 
 - Showtime, the NFT social network, is [hiring for more roles](https://angel.co/company/showtime-technologies/jobs/1282540-founding-mobile-engineer)
@@ -133,7 +133,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

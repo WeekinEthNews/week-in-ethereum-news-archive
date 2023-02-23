@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 19, 2020"
 date: "2020-07-19"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -96,7 +96,7 @@ Take a sip of Matcha and relax knowing you'll get the best price on every token 
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - The Request team is looking for a fully remote [full stack engineer](https://request-network.homerun.co/blockchain-engineer-1)
 - Celer Network: [Android developer](https://www.celer.network/career.html)
@@ -108,7 +108,7 @@ Take a sip of Matcha and relax knowing you'll get the best price on every token 
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -118,7 +118,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-july-19-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

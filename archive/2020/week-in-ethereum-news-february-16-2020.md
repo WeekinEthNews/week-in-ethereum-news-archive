@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> February 16, 2020"
 date: "2020-02-17"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -119,7 +119,7 @@ date: "2020-02-17"
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 _Upcoming dates of note (new in **bold**)_**:**
 
@@ -139,7 +139,7 @@ _Upcoming dates of note (new in **bold**)_**:**
 
 * * *
 
-###### **Thank you, ConsenSys**
+## **Thank you, ConsenSys**
 
 This newsletter is made possible by [ConsenSys](https://consensys.net/).  
 
@@ -151,7 +151,7 @@ If you’re wondering “[why didn’t my post make it into Week in Ethereum New
 
 * * *
 
-###### **I really want you to link to [weekinethereumnews.com](https://weekinethereumnews.com/)**
+## **I really want you to link to [weekinethereumnews.com](https://weekinethereumnews.com/)**
 
 Issue permalink: [https://weekinethereumnews.com/week-in-ethereum-news-february-16-2020/](https://weekinethereumnews.com/week-in-ethereum-news-february-16-2020/)
 

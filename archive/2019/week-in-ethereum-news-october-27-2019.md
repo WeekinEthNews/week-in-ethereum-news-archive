@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> October 27, 2019"
 date: "2019-10-28"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -83,7 +83,7 @@ date: "2019-10-28"
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 _Upcoming dates of note (new in **bold**)_**:**
 
@@ -99,7 +99,7 @@ _Upcoming dates of note (new in **bold**)_**:**
 
 * * *
 
-###### **If you appreciate this newsletter, thank ConsenSys**
+## **If you appreciate this newsletter, thank ConsenSys**
 
 This newsletter is made possible by [ConsenSys](https://consensys.net/).  
 
@@ -115,7 +115,7 @@ If you're unhappy with editorial decisions or anything that I have written in th
 
 * * *
 
-###### **This headline stays as long as so many people continue to link to old URL and not the right one: [weekinethereumnews.com](https://weekinethereumnews.com/)**
+## **This headline stays as long as so many people continue to link to old URL and not the right one: [weekinethereumnews.com](https://weekinethereumnews.com/)**
 
 Archive on the web if you’re linking to it: [https://weekinethereumnews.com/week-in-ethereum-news-october-27-2019/](https://weekinethereumnews.com/week-in-ethereum-news-october-27-2019/)
 

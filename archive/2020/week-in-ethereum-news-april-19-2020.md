@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> April 19, 2020"
 date: "2020-04-19"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -105,7 +105,7 @@ date: "2020-04-19"
 
 * * *
 
-###### **This newsletter is made possible by [ConsenSys](https://consensys.net/)**
+## **This newsletter is made possible by [ConsenSys](https://consensys.net/)**
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08f1b2fd-57e2-4d4b-bd42-730c769114be_240x240.jpeg)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08f1b2fd-57e2-4d4b-bd42-730c769114be_240x240.jpeg)
 
@@ -115,7 +115,7 @@ If you’re wondering “[why didn’t my post make it into Week in Ethereum New
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 13, 2020"
 date: "2020-09-13"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -86,7 +86,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [OpenZeppelin](https://openzeppelin.com/jobs): Security Researcher, Security Platform Dev & Open Source Dev
 - DeFi devs! Yield is hiring for Solidity and front-end - contact@yield.is
@@ -100,7 +100,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Staking pools get in touch**
+## **Staking pools get in touch**
 
 With eth2 due to launch in a matter of weeks, I’m going to recommend staking pools to those of you who want to stake but don’t want to run their own stakers (which is preferred over a pool!). If you’re a [staking pool and want to do my diligence process](https://twitter.com/evan_van_ness/status/1303695151814963200), get in touch.
 
@@ -116,7 +116,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

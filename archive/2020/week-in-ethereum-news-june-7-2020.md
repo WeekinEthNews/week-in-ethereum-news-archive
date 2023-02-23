@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> June 7, 2020"
 date: "2020-06-07"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -94,7 +94,7 @@ date: "2020-06-07"
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -104,7 +104,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-june-7-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

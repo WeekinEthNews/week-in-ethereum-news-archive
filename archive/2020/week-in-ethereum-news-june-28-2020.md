@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 28, 2020"
 date: "2020-06-28"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -109,7 +109,7 @@ Building a DeFi application? Make sure you’re using the best possible [price d
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Blockchains, LLC is hiring [full stack](https://www.blockchains.com/careers/?gh_jid=4750540002&gh_src=dcb3016b2us), [front end](https://www.blockchains.com/careers/?gh_jid=4750551002&gh_src=07e5f4692us), & [back end](https://www.blockchains.com/careers/?gh_jid=4750478002&gh_src=7c1607432us) developers!
 - Monolith is looking for an amazing [Finance & Treasury Manager](https://apply.workable.com/monolithweb3/j/2FD4CAC261/)! Interested?
@@ -123,7 +123,7 @@ Building a DeFi application? Make sure you’re using the best possible [price d
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -133,7 +133,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-june-28-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

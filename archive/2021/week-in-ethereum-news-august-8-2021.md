@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 8, 2021"
 date: "2021-08-08"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer - London fork happened and 1559 is live!**
 
@@ -116,7 +116,7 @@ You can now also use [L2 Kwenta on Optimism](https://blog.kwenta.io/everything-y
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Founding auditor at Yearn's yAcademy](https://yacademy.github.io/jobs/), $10,000 referral reward if hired
 - Solidity is [hiring a C++ dev](https://ethereum.bamboohr.com/jobs/view.php?id=40&source=weekinethnews)
@@ -135,7 +135,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

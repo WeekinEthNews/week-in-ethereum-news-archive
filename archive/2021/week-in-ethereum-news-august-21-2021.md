@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 21, 2021"
 date: "2021-08-21"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -124,7 +124,7 @@ Celer Network is a layer-2 scaling platform that brings fast, secure and low-cos
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Hiring a [Front-End (or Full Stack) Engineer](https://blog.kwenta.io/kwenta-open-position-front-end-developer/) at Kwenta
 - Ethereum Foundation: [Test Engineer](https://ethereum.bamboohr.com/jobs/view.php?id=39) for consensus and execution layers
@@ -142,7 +142,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

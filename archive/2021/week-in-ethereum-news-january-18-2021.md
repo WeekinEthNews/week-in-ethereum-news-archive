@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Jan 18, 2021"
 date: "2021-01-18"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -85,7 +85,7 @@ date: "2021-01-18"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Trail of Bits is looking for a [technical editor/writer](https://jobs.lever.co/trailofbits/8bf936ff-b86c-462e-80b2-4d58004bc68d) & [security engineer](https://jobs.lever.co/trailofbits/4f459855-3299-462f-9e73-299a840d5baf)
 - Nexus Mutual: [experienced Solidity dev](https://angel.co/company/nexus-mutual-1/jobs/967538-smart-contract-engineer) in Euro timezones
@@ -105,7 +105,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

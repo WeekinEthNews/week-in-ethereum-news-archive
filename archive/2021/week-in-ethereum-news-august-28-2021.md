@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 28, 2021"
 date: "2021-08-28"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -120,7 +120,7 @@ For more information about the project, you can talk to the team on the [Streamr
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Futureswap is hiring a [Product Marketing Manager](https://angel.co/company/futureswap/jobs/1509809-product-marketing-manager)
 - Vac (Status) is looking for a [smart contracts protocol engineer](https://jobs.status.im/en/jobs/20563) for Waku
@@ -138,7 +138,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

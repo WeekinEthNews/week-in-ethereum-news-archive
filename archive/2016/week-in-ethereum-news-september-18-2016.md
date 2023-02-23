@@ -35,7 +35,7 @@ _A relatively quiet week right before DevCon2.  Make sure to check out [#DevCo
 - The Financial Times on the challenges of [banks meshing with blockchains](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F2%2F0288caea-7382-11e6-bf48-b372cdb1043a.html%3Fsiteedition%3Dintl%23axzz4K6mpKUzU&t=NTA5ZjUzMGY0MjdkMmI0NGEwZWY5NGZmYzg1OTlkOTBjNDc4OGM0YyxZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0).
 - [The Blockchain: An Experiment in Governance without Power](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.coindesk.com%2Fblockchain-experiment-governance-without-power%2F&t=NDEyMThlZTAxMzE5ZTdmZjc2MjRhMzA0NzAzNzhmOGQ2NjQwMDllNixZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0)
 
-###### Dates of note
+## Dates of note
 
 - 9/19 - 9/21 – [DevCon2](https://t.umblr.com/redirect?z=https%3A%2F%2Fethereumfoundation.org%2Fdevcon%2F&t=ZGI1NjI5MzRjYjdiNGNmOGI1YTVhY2JhZGMwNTI2MmM4MzE4NTg3YSxZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0)  (followed by BlockChain Week)
 - 9/26 – eSports [First Blood](https://t.umblr.com/redirect?z=https%3A%2F%2Fsteemit.com%2Fcrowdsale%2F%40jasonmcz%2Ffirstblood-the-crowdsale-of-the-century&t=ZjM2ZDBhMTI2YjhmNzliZjZjYjFkZGEzODE2ZWEyZDZhZTg3MTEyNCxZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0) crowdsale begins
@@ -46,7 +46,7 @@ _A relatively quiet week right before DevCon2.  Make sure to check out [#DevCo
 - 9/30 – Coinbase to release ETC, presumably meaning many DAO investors will sell their ETC for ETH.
 - 10/1 [Kibo lotto](https://t.umblr.com/redirect?z=http%3A%2F%2Fkiboplatform.net%2Fen%2Flanding.html&t=ZGI4MDZmZDZiZGEwYTdiMGM0MjA3NTQ1NTIzNDM0MjQ2NjVlZWI0YyxZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0) crowdsale opens
 
-###### “Disrupt” TicketMaster?
+## “Disrupt” TicketMaster?
 
 TicketMaster is a monopolistic middleman that rips off ticket buyers, so TM should be ripe for replacement with a decentralized competitor.  Right?  So says much of a recent [Reddit thread](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F52szw3%2Flets_talk_about_the_ticket_industry%2F&t=N2UxYTIwYmYyYWZiZTJhMWFiYjI1NjI1ZjJjOTZkYjQ0YjYzMjdiOCxZNzhYbnV4Qg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178575603%2Fseptember-18-2016&m=0).
 
@@ -66,7 +66,7 @@ I’m not saying it’s impossible to build a successful ticketing project on Et
 
 **Overarching point**: you can’t disrupt a market if you can’t figure out who the current and future customers are and what they want.  Just because it’s possible to implement a technical solution in Ethereum doesn’t necessarily mean that anyone would buy it.
 
-###### Navel gazing
+## Navel gazing
 
 Last week, I offered my Ethereum ICO evaluation framework in return for sharing this newsletter or sending Ether to 0x96d4F0E75ae86e4c46cD8e9D4AE2F2309bD6Ec45 \[Yup, shameless plug!\] That offer is still open, but you’ll have to see the last 2 issues for details\*.
 

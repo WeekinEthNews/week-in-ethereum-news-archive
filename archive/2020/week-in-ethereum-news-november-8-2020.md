@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 8, 2020"
 date: "2020-11-08"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -83,7 +83,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Argent is hiring a [Senior Android Engineer](https://apply.workable.com/argent-1/j/6C69D299DE/) (Remote, Europe only)
 - Celer hiring Solidity and Go devs. Email: hiring@celer.network
@@ -95,7 +95,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Download The Crypto News Podcast**
+## **Download The Crypto News Podcast**
 
 Episode 2: Wyre’s [Michael Dunworth](https://thecryptonewspodcast.com/wyre-founder-michael-dunworth)
 
@@ -115,7 +115,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-et
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

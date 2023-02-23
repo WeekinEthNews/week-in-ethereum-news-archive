@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Dec 13, 2020"
 date: "2020-12-13"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -88,7 +88,7 @@ Chainlink oracles protect DeFi dApps against flash loan exploits and other marke
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - SigmaPrime is hiring a [blockchain security engineer](https://blog.sigmaprime.io/blockchain-security-engineer.html)
 - 0x looking for [devs of all types](https://0x.org/about/jobs) and a [Matcha marketing manager](https://boards.greenhouse.io/0x/jobs/4923909002)
@@ -108,7 +108,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 4, 2021"
 date: "2021-09-04"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -128,7 +128,7 @@ Decentralized Perpetual Futures coming soon.
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Mark Cuban is seeking a web3 developer. [Send a front-end sample to apply](https://forms.office.com/r/M81g5RNgXX)
 - Dark Forest: [Full-Stack Developer](https://darkforest-eth.notion.site/darkforest-eth/Dark-Forest-Full-Stack-Developer-82f4c4f3a88248f580c20b507685c5c8)
@@ -145,7 +145,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

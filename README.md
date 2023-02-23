@@ -15,3 +15,5 @@ Edited by [Andrew B Coathup](https://twitter.com/abcoathup) (since May 16, 2021)
 
 2. Convert XML to markdown: 
 `npx wordpress-export-to-markdown --wizard false --input export.xml --output archive --year-folders true --post-folders false --save-scraped-images false`
+
+3. Replace "###### " with "## "

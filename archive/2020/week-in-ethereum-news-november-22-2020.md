@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 22, 2020"
 date: "2020-11-22"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -92,7 +92,7 @@ Follow us on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog.
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Nexus Mutual: [experienced Solidity dev](https://angel.co/company/nexus-mutual-1/jobs/967538-smart-contract-engineer) in Euro timezones
 - Celer hiring Solidity and Go devs. Email: hiring@celer.network
@@ -114,7 +114,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

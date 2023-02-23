@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> October 23, 2016"
 date: "2016-10-23"
 ---
 
-###### News and Links  
+## News and Links  
 
 - Hard Fork 1 was successful last Tuesday, though DoS attacker [kept trying](https://t.umblr.com/redirect?z=https%3A%2F%2Fetherscan.io%2Faddress%2F0xb6389d6575966f946e190b9d538c3259857ed2c7&t=Nzc1MmYwZTRkZDRhNTg0NDk4Mzg5OTQ5NDE5NzQ5ODA4OWJjYTQ4OCxRWkJBcWJBTA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155174927273%2Foctober-23-2016&m=0) [afterwards](https://t.umblr.com/redirect?z=https%3A%2F%2Fetherscan.io%2Faddress%2F0xbd37ee00e47c0fe0def80bd95c498698b4a15235&t=NjNjNDVmMzBiMjcxYWEyYjIxMTdiMzJjMzYyZjg5ZWM0NmEyMGFlYSxRWkJBcWJBTA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155174927273%2Foctober-23-2016&m=0) with the EXP and BALANCE opcodes.
 - What if we had an Ethereum convention in the US?  \[See below\]
@@ -95,7 +95,7 @@ Still want in?  [Buy a ticket](https://t.umblr.com/redirect?z=https%3A%2F%2Feth
 
 Questions?  Feel free to email weekinethereum@gmail.com                             
 
-###### Dates of note  
+## Dates of note  
 
 - Oct 26 – [Inchain](https://t.umblr.com/redirect?z=http%3A%2F%2Fico.inchain.io&t=YjkzMjc4MmJhMzI5ZTBjOWQ2ZDBkZDZmMjUzYzEyMTEzMTJhNTQ1MyxRWkJBcWJBTA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155174927273%2Foctober-23-2016&m=0) crowdsale begins.
 - Oct 30 – Last day for cheapest [Ethereum USA conference tickets](https://t.umblr.com/redirect?z=https%3A%2F%2Fethereum.ticketleap.com%2F2017-ethereum-usa-conference%2F&t=MWQ4NmViYmU0MTI3NjcxMTBkZjAwYjU1YWZmZGFhOGVlMGE1M2U0MixRWkJBcWJBTA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155174927273%2Foctober-23-2016&m=0).
@@ -111,7 +111,7 @@ Questions?  Feel free to email weekinethereum@gmail.com                
 
 \[I aim for a relatively comprehensive list of Ethereum sales, but make no warranty as to even whether they are legit; as such, I thus likewise warrant nothing about whether any will produce a satisfactory return. This is not investment advice; I charge heavily for that.\]                                                          
 
-###### Token Sales – General Expectations for Founders & Upcoming Crowdsales  
+## Token Sales – General Expectations for Founders & Upcoming Crowdsales  
 
 **What should we expect from founders doing ICOs?**
 
@@ -146,6 +146,6 @@ Good points [made by Dunning\_Krugerrands](https://t.umblr.com/redirect?z=https
     - [This comment filled in](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethtrader%2Fcomments%2F58ilgo%2Fbranche_ico_token_sale_details%2Fd91rih3%2F&t=YjgyNTE5YWUxY2EyMWRkMTNkNGQ5MjAyNDk2YzNlZjkzZWVjMTZhYSxRWkJBcWJBTA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155174927273%2Foctober-23-2016&m=0) some of that gap, but I still feel like there’s a need for a story that explains how the system works and why Branche makes it better.  
         
 
-###### If you liked this, help it continue by sharing.
+## If you liked this, help it continue by sharing.
 
 If you’d like to send me Ether to keep me motivated to do these roundups, then I’d like to make that easy for you: 0x96d4F0E75ae86e4c46cD8e9D4AE2F2309bD6Ec45

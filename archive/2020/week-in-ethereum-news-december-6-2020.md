@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Dec 6, 2020"
 date: "2020-12-06"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -99,7 +99,7 @@ Now you can [trade 1000+ DeFi tokens](https://matcha.xyz/?id=wien) on Matcha!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Circle is hiring! **Please check us out**: [https://www.circle.com/en/careers](https://www.circle.com/en/careers)
 - Linum Labs is hiring a [CTO & a Fullstack developer](https://angel.co/company/linum-labs/jobs) (Remote)
@@ -121,7 +121,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> May 24, 2020"
 date: "2020-05-24"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -95,7 +95,7 @@ Sign up [here](https://matcha.xyz/?id=weekinethereum1) to get early access to 
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the annotated edition of this newsletter, usually forthcoming in a day or so, as well as a real-time source of Eth news.
 
@@ -105,7 +105,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-may-24-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

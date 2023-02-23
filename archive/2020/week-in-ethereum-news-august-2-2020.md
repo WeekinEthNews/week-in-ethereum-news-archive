@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 2, 2020"
 date: "2020-08-03"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -105,7 +105,7 @@ date: "2020-08-03"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Trail of Bits is looking for: [blockchain security engineer](https://jobs.lever.co/trailofbits/4f459855-3299-462f-9e73-299a840d5baf) & [cryptography analyst](https://jobs.lever.co/trailofbits/56af8506-3205-4c7b-b28d-ba8292bd1a47)
 - 0x is looking for all kinds of devs: [full-stack, back-end, and front-end](https://0x.org/about/jobs)
@@ -116,7 +116,7 @@ date: "2020-08-03"
 
 * * *
 
-###### **Watch this space**
+## **Watch this space**
 
 If you want to follow me on Twitter, I got [@evan\_van\_ness](https://twitter.com/evan_van_ness) back after being suspended for a week for no reason, but after 3 weeks [@WeekInEthNews is still suspended for the crime of (checks notes) trying to upload a profile picture](https://www.evanvanness.com/post/624463633751195648/twitter-incompetence-in-one-small-image). Twitter is truly the most shamelessly incompetent company.
 
@@ -126,7 +126,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum.
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

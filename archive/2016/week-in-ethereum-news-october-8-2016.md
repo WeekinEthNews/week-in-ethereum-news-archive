@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> October 8, 2016"
 date: "2016-10-08"
 ---
 
-###### Links and Quick Hits  
+## Links and Quick Hits  
 
 - The [Ethereum Foundation has about 17m USD left](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F56ev84%2Fquestions_about_the_ethereum_foundation%2Fd8ixscy%3Fcontext%3D3&t=YzJjZTVjYThhZTY2YWM5ODM3ZWMzODJmODIyYzFlNTg0NmEzMjM4NCxTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0) at current ETH prices.
 - We are likely heading for a hard fork to fix the DoS attacks.  Ahem:
@@ -47,7 +47,7 @@ date: "2016-10-08"
 - Why JPMorganChase is building its [blockchain project on Ethereum](https://t.umblr.com/redirect?z=http%3A%2F%2Ffortune.com%2F2016%2F10%2F04%2Fjp-morgan-chase-blockchain-ethereum-quorum%2F&t=MmMwNWE2MTc1YzA0YWE3YTljMTZjNDk2ZDBhOTJjNjcwYWUxYTU3OCxTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0) (Fortune).  [WSJ version](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fj-p-morgan-has-a-new-twist-on-blockchain-1475537138&t=MmQ5NTA4YTI3MTMzYmFlNDMzZjlhM2FkMjJhZTdkYmFkNjI5NTU0MCxTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0).
 - Gavin Wood does the [Changelog podcast](https://t.umblr.com/redirect?z=https%3A%2F%2Fchangelog.com%2F222%2F&t=NDVkMDQ1NzJiY2JjMWUyNDk3MDVmNWRiNTE1NmU0MzFlM2JmNGVmMixTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0).
 
-###### Dates of note  
+## Dates of note  
 
 - Oct 12 – [Inchain](https://t.umblr.com/redirect?z=http%3A%2F%2Fico.inchain.io&t=ZmNjNTJiZDU1MmZjOTI2ZGQ4MTg5MDcxYmQwYWFjN2I1OTZmYzAwZixTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0) crowdsale begins. \[First I’d heard of it\]
 - Oct 20 – ether.camp [ICO begins](https://t.umblr.com/redirect?z=https%3A%2F%2Fforum.ether.camp%2Fc%2FHackerGold&t=YzhhNzJjNWQzNzM4Yjk4YzM5ZTY5N2U2MGUxY2I4ZmMwNmZmZTMwNyxTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0)
@@ -55,7 +55,7 @@ date: "2016-10-08"
 - Nov 14 – SEC has a fintech/blockchain meeting
 - November TBA – .ETH name system goes live
 
-###### Iconomi’s Poorly Constructed Cryptocurrency Index  
+## Iconomi’s Poorly Constructed Cryptocurrency Index  
 
 Iconomi released their [cryptocurrency index:](https://t.umblr.com/redirect?z=https%3A%2F%2Ficnx.iconomi.net%2F&t=NjlhODhhZDM5MmVhNDUwMjY3ZWIwMmRiMmNhYTY1N2VkNGY2OWUyMixTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0)
 
@@ -74,13 +74,13 @@ I could go on.
 
 Iconomi’s plan for an [index is one reason why I think they might succeed](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F150900730446%2Fwhats-happening-in-ethereum-issue-3&t=N2JkMTAwOThlNzRlYzI5NTRiYjJkZjNhZmE5ZDY5ZjU5YWU5ZmNkOSxTSklMQUdDNQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177376713%2Foctober-8-2016&m=0) , even though I didn’t care to put value at risk. However, their current index methodology is simply not good enough.  Getting it right is a big opportunity.  
 
-###### ICO Standards Working Group
+## ICO Standards Working Group
 
 Recent crowdsales have left many in the Ethereum community feeling that we need to do a better job setting standards for what we expect from founders.
 
 If you’re interested in joining, email:  weekinethereum@gmail.com
 
-###### If you liked this, help it continue by sharing.
+## If you liked this, help it continue by sharing.
 
 I’m tweeting more about Ethereum, so [follow me @evan\_van\_ness](https://twitter.com/evan_van_ness) and let me know how I can make this newsletter more useful to you.
 

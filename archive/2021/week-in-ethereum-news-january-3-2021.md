@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Jan 3, 2021"
 date: "2021-01-03"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -75,7 +75,7 @@ Now you can [trade 1000+ DeFi tokens](https://matcha.xyz/?id=wien) on Matcha!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Nexus Mutual: [experienced Solidity dev](https://angel.co/company/nexus-mutual-1/jobs/967538-smart-contract-engineer) in Euro timezones
 - SigmaPrime is hiring a [blockchain security engineer](https://blog.sigmaprime.io/blockchain-security-engineer.html)
@@ -96,7 +96,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-eth
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

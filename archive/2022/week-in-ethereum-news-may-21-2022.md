@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> May 21, 2022"
 date: "2022-05-21"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **PoW switch off (the Merge)**
 
@@ -132,7 +132,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in_ **_bold_**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 18, 2021"
 date: "2021-09-18"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -121,7 +121,7 @@ Since launch, cBridge has witnessed doubling weekly volume growth and reached $1
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - OpenZeppelin hiring [Open Source Developer](https://openzeppelin.com/jobs/opening/?gh_jid=4554917003)
 - Rarible is hiring: [VP of Product](https://jobs.lever.co/Rarible/47ed8db0-2161-420c-9321-4ade80e8dece) and [Product Manager](https://jobs.lever.co/Rarible/06d88504-b740-434e-87c0-72846b9ddeeb)
@@ -138,7 +138,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

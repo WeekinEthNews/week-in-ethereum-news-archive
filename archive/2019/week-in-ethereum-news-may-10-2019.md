@@ -3,7 +3,7 @@ title: "May 10, 2019, Week in Ethereum News"
 date: "2019-05-11"
 ---
 
-###### **Ethereum News and Links**
+## **Ethereum News and Links**
 
 **Layer 1**
 
@@ -101,7 +101,7 @@ date: "2019-05-11"
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 _Upcoming dates of note (new in **bold**)_**:**
 
@@ -126,7 +126,7 @@ _Upcoming dates of note (new in **bold**)_**:**
 
 * * *
 
-###### **If you appreciate this newsletter, thank ConsenSys**
+## **If you appreciate this newsletter, thank ConsenSys**
 
 This newsletter is made possible by [ConsenSys](https://consensys.net/).  
 
@@ -139,7 +139,7 @@ If you're unhappy with editorial decisions or anything that I have written in th
 
 * * *
 
-###### **It’s annoying how many link to the old URL. This is the new one: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
+## **It’s annoying how many link to the old URL. This is the new one: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
 
 Archive on the web if you’re linking to it: [https://weekinethereumnews.com/may-10-2019-week-in-ethereum-news/](https://weekinethereumnews.com/may-10-2019-week-in-ethereum-news/)
 

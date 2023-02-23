@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> May 3, 2021"
 date: "2021-05-03"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -115,7 +115,7 @@ Don’t forget to follow NEAR on [Twitter](https://twitter.com/NEARProtocol) and
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Join Zerion as Product Manager](https://jobs.lever.co/zerion/02a3d561-3367-48c0-9e50-eef8db11d5dc?lever-origin=applied&lever-source%5B%5D=WeekInEthereum) and take DeFi to the next level
 - Giveth is [hiring experienced Solidity Devs](https://cryptojobslist.com/jobs/lead-solidity-smart-contract-developer-at-giveth-remote) interested in #Defi4good
@@ -138,7 +138,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

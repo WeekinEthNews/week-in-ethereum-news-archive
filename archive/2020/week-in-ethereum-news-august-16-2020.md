@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 16, 2020"
 date: "2020-08-17"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -112,7 +112,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Dune Analytics](https://careers.duneanalytics.com/): hiring 1st non-founder team members - remote ~CET time zone
 - Nethermind is hiring a [Senior .NET Developer](https://justjoin.it/offers/nethermind-senior-net-engineer) (remote)
@@ -126,7 +126,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Available Week in Eth News sponsor slots tokenized as $EVAN**
+## **Available Week in Eth News sponsor slots tokenized as $EVAN**
 
 To make my [tokenized available sponsorship slots ($EVAN) for this newsletter](https://www.evanvanness.com/post/625741875743227904/evan-is-live-on-balancer), you can now buy them directly from me at the spot price on [Balancer](https://balancer.exchange/#/swap/ether/0x89E3aC6Dd69C15e9223BE7649025d6F68Dab1d6a).
 
@@ -138,7 +138,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Jan 10, 2021"
 date: "2021-01-11"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -73,7 +73,7 @@ Come build the future of blockchain oracles and universally connected smart cont
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - RWAs in DeFi: Centrifuge is hiring a [Network Ambassador](https://centrifuge.breezy.hr/p/771e051b9cdc01-centrifuge-network-ambassador) & [Account Manager](https://centrifuge.breezy.hr/p/f48a6912924b01-customer-success-manager)
 - Join Chainlink Labs’ leadership team as the [Chief Operating Officer](https://jobs.lever.co/chainlink/5c228339-fb1f-46f6-849d-5d611c38f648?lever-origin=applied&lever-source%5B%5D=Week%20in%20Ethereum)
@@ -95,7 +95,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

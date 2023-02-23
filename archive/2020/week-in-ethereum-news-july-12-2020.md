@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 12, 2020"
 date: "2020-07-12"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -95,7 +95,7 @@ date: "2020-07-12"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Sigma Prime is hiring [Blockchain Security Engineers](https://github.com/sigp/positions-vacant/blob/master/security-engineer.md) and an [Executive Assistant](https://github.com/sigp/positions-vacant/blob/master/ea.md)
 - [0x is hiring](https://0x.org/about/jobs) a Periscope tech lead & full-stack, back-end, and front-end engineers
@@ -107,7 +107,7 @@ date: "2020-07-12"
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the **annotated edition of this newsletter** on Monday or Tuesday. Plus I tweet most of what makes it into the newsletter.
 
@@ -117,7 +117,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-july-12-2020/]
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

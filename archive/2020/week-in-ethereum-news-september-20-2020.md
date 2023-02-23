@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 20, 2020"
 date: "2020-09-20"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -97,7 +97,7 @@ Interested in oracles? Apply for a [Chainlink Community Grant](https://blog.chai
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [ChainSafe](http://chainsafe.io/) is hiring! Golang blockchain [devs](https://www.notion.so/chainsafe/Blockchain-Developer-Golang-d69bad0b1dd94c43a19db2b332a6f650) and [leads](https://www.notion.so/chainsafe/Technical-Lead-Golang-cbcb6f41d9434672af8b86c735dec865). careers@chainsafe.io
 - Gnosis is hiring a [Marketing Manager](https://boards.greenhouse.io/gnosis/jobs/4831653002) for our core product [Gnosis Protocol DEX](https://docs.gnosis.io/protocol/)
@@ -110,7 +110,7 @@ Interested in oracles? Apply for a [Chainlink Community Grant](https://blog.chai
 
 * * *
 
-###### **Staking pools get in touch**
+## **Staking pools get in touch**
 
 🥩 🥩 🥩 I released my [questionnaire for staking pools](https://docs.google.com/document/d/1wrzKXff2XwY4Bu5ynVqvlPXI4xqM4-Hwx7Jh7_-1IGg/edit).
 
@@ -128,7 +128,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

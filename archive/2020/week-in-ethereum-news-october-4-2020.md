@@ -3,7 +3,7 @@ title: "Week in Eth News <BR> October 4, 2020"
 date: "2020-10-04"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -117,7 +117,7 @@ Get immediate security help by booking an [office hours session](https://calend
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Livepeer is hiring a [Blockchain Community Marketing + Ops Lead](https://angel.co/company/livepeer/jobs/874811-blockchain-public-network-community-marketing-associate)
 - BnkToTheFuture is hiring a high performance dev team! Come [create the future](https://app.bnktothefuture.com/careers)!
@@ -132,7 +132,7 @@ Get immediate security help by booking an [office hours session](https://calend
 
 * * *
 
-###### **🥩 Staking pool questionnaire: October 15 🥩** 
+## **🥩 Staking pool questionnaire: October 15 🥩** 
 
 My [questionnaire for staking pools](https://docs.google.com/document/d/1wrzKXff2XwY4Bu5ynVqvlPXI4xqM4-Hwx7Jh7_-1IGg/edit) will be due October 15th.
 
@@ -146,7 +146,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-eth-
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

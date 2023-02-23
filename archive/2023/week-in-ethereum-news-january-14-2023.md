@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> January 14, 2023"
 date: "2023-01-14"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Shapella (Shanghai + Capella) upgrade**
 
@@ -167,7 +167,7 @@ Follow [@WeekinEthNews](https://twitter.com/WeekInEthNews) to find out what the 
 
 * * *
 
-###### Upcoming Dates of Note
+## Upcoming Dates of Note
 
 _(new/changes in_ **_bold_**_)_
 

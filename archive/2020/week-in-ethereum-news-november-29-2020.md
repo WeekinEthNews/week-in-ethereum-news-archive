@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 29, 2020"
 date: "2020-11-29"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -100,7 +100,7 @@ The means and tools for securing your contracts are available today. Use the lat
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Aztec's hiring](https://medium.com/aztec-protocol/were-hiring-5cd7cf5b0667)! Join ZK’s cutting edge with the private L2 from PLONK’s creators
 - 0x looking for [devs of all types](https://0x.org/about/jobs) and a [Matcha marketing manager](https://boards.greenhouse.io/0x/jobs/4923909002)
@@ -122,7 +122,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

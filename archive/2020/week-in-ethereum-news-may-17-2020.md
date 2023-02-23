@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> May 17, 2020"
 date: "2020-05-18"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -88,7 +88,7 @@ Trail of Bits recently reported and fixed 12 security issues in projects across 
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) to get the annotated edition of this newsletter, usually forthcoming in a day or so, as well as a real-time source of Eth news.
 
@@ -98,7 +98,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-may-17-2020/](
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 30, 2020"
 date: "2020-08-31"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -97,7 +97,7 @@ We have also just launched [State Guardian Network beta testnet.](https://blog.c
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - BnkToTheFuture is hiring a high performance dev team! Come [create the future](https://app.bnktothefuture.com/careers)!
 - Celer Network is seeking Solidity and Go devs. Email: hiring@celer.network
@@ -109,7 +109,7 @@ We have also just launched [State Guardian Network beta testnet.](https://blog.c
 
 * * *
 
-###### **If you want to sponsor newsletter, read this:**
+## **If you want to sponsor newsletter, read this:**
 
 The available sponsorship slots [were tokenized ($EVAN) for this newsletter](https://www.evanvanness.com/post/625741875743227904/evan-is-live-on-balancer). You can now buy enough for a newsletter OTC from me at the spot price, or directly on [Balancer](https://balancer.exchange/#/swap/ether/0x89E3aC6Dd69C15e9223BE7649025d6F68Dab1d6a) - but you’ll likely get a better price from me.
 
@@ -121,7 +121,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

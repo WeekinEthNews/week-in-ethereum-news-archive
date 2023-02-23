@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 6, 2020"
 date: "2020-09-06"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -95,7 +95,7 @@ Conduct your own [minimum viable security audit](https://github.com/crytic/buil
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Want to work in DeFi? [mStable](https://mstable.org) is hiring a [Protocol](https://cryptocurrencyjobs.co/engineering/mstable-protocol-developer-defi/) Developer
 - Props is hiring [full-stack](https://propsproject.com/careers/?gh_jid=2295299), [Product Manager](https://propsproject.com/careers/?gh_jid=2295035), [Finance Lead](https://propsproject.com/careers/?gh_jid=2295034) and [Marketing Lead](https://propsproject.com/careers/?gh_jid=1276877).
@@ -109,7 +109,7 @@ Conduct your own [minimum viable security audit](https://github.com/crytic/buil
 
 * * *
 
-###### **My [Nifty.ink](https://nifty.ink/) artwork on sale (and newsletter sponsorships)**
+## **My [Nifty.ink](https://nifty.ink/) artwork on sale (and newsletter sponsorships)**
 
 I drew the Eth rainbow logo using nifty.ink \[very noob friendly; send to your artist friends!\] and put in on sale. You can buy it or watch how I made it here: [https://nifty.ink/QmeYK5yHCoZ1Upe1cHcoQvi7hPVvwmAxfZFtUd3DB5K2iS](https://nifty.ink/QmeYK5yHCoZ1Upe1cHcoQvi7hPVvwmAxfZFtUd3DB5K2iS)
 
@@ -123,7 +123,7 @@ Did you get **forwarded** this newsletter? **[Sign up](https://weekinethereum
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

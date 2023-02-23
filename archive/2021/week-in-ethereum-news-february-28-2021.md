@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Feb 28, 2021"
 date: "2021-02-28"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -106,7 +106,7 @@ Now you can [trade 1000+ DeFi tokens](https://matcha.xyz/?id=wien) on Matcha!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Get paid to work on open source! [Rust](https://chainsafe.io/careers/openpositions/rust-developer), [Golang](https://chainsafe.io/careers/openpositions/lead-golang-developer), [Solidity](https://chainsafe.io/careers/openpositions/solidity-engineer). [Join ChainSafe](https://chainsafe.io/careers/openpositions)!
 - Earn governance rights as a Tracer Perpetual Swap Alpha Tester, [apply here.](https://tracer-finance.typeform.com/to/CLDvv8H7)
@@ -134,7 +134,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

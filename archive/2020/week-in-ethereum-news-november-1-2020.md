@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 1, 2020"
 date: "2020-11-02"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -105,7 +105,7 @@ EIPs/standards
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Join Status and help drive the [JS implementation of Waku and Integrations](https://status.im/our_team/open_positions.html?gh_jid=2385338)
 - Mainframe is hiring a [Solidity Smart Contract Engineer](https://cryptocurrencyjobs.co/engineering/mainframe-solidity-smart-contract-engineer/)
@@ -118,7 +118,7 @@ EIPs/standards
 
 * * *
 
-###### **Download The Crypto News Podcast**
+## **Download The Crypto News Podcast**
 
 Episode 1: [Taylor Monahan](https://thecryptonewspodcast.com/mycrypto-ceo-taylor-monahan)
 
@@ -138,7 +138,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-et
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> December 24, 2022"
 date: "2022-12-24"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Shapella (Shanghai + Capella) upgrade**
 
@@ -181,7 +181,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### Upcoming Dates of Note
+## Upcoming Dates of Note
 
 _(new/changes in_ **_bold_**_)_
 

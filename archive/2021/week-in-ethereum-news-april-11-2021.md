@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> April 11, 2021"
 date: "2021-04-12"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -96,7 +96,7 @@ Currently, the 1inch Network consists of five independent yet interoperable comp
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Element Finance](https://element.fi/), launching very soon, is hiring a [Solidity engineer](https://docs.google.com/document/d/1D0wxlgnRsd6rQh2s3rC1Lq1fADkcHBtfKAVhepx6wss/edit?usp=sharing)
 - Nomic Labs (Hardhat/Buidler) is hiring a [senior dev and an engineering manager](https://www.notion.so/Nomic-Labs-jobs-991b37c547554f75b89a95f437fd5056)
@@ -118,7 +118,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

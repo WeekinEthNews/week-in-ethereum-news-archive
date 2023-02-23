@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 12, 2021"
 date: "2021-06-12"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -101,7 +101,7 @@ Try [Kwenta](https://kwenta.io/) today!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Chorus One](https://chorus.one/careers) has open engineering & business positions
 - Kwenta open position: [UI/UX Designer](https://blog.kwenta.io/kwenta-open-position-ui-ux-designer/)
@@ -123,7 +123,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

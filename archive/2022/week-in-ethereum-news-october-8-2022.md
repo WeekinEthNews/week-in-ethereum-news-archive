@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> October 8, 2022"
 date: "2022-10-07"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Execution layer**
 
@@ -130,7 +130,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Upcoming Dates of Note**
+## **Upcoming Dates of Note**
 
 _(new/changes in_ **_bold_**_)_
 

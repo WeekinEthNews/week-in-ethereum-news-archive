@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> October 1, 2016"
 date: "2016-10-01"
 ---
 
-###### News and Quick Links  
+## News and Quick Links  
 
 **Headlines**
 
@@ -51,13 +51,13 @@ date: "2016-10-01"
 - Reuters: [Banks adopting blockchain ‘dramatically faster’ than expected: IBM](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-tech-blockchain-ibm-idUSKCN11Y28D&t=NjJiZjdlNDM3NjNiZDY3MDg1ZmI3NDRlZTRiOTAzYjk0YjdjMjNjNCwwMGNUSmlzbg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177886678%2Foctober-1-2016&m=0)
 - [Microsoft and Bank of America are working together](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-tech-blockchain-microsoft-bank-of-ame-idUSKCN11X137&t=ODBhYmVjMWI4NTEyYzkyMzZjOGRmNWFlMjNiM2UxODcyZWEzZTlmMiwwMGNUSmlzbg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155177886678%2Foctober-1-2016&m=0) on a private Ethereum chain project.
 
-###### Dates of note  
+## Dates of note  
 
 - 10/4 – Augur REP begins trading
 - 11/14 – SEC has a fintech/blockchain meeting
 - November TBA – .ETH name system goes live
 
-###### Irrational Exuberance - Crowdsale edition  
+## Irrational Exuberance - Crowdsale edition  
 
 **Wanna get rich without really working**?  Just come up with a big idea, write a white paper, and announce a crowdsale to build the platform.
 

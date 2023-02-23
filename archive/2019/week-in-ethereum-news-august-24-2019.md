@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 24, 2019"
 date: "2019-08-25"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Layer 1**
 
@@ -93,7 +93,7 @@ date: "2019-08-25"
 
 * * *
 
-###### 🎂 **3 year anniversary** 🎂
+## 🎂 **3 year anniversary** 🎂
 
 For the three year anniversary, we’re going to try a small experiment. 🥼
 
@@ -105,7 +105,7 @@ All proceeds will be back into Ethereum somehow, likely donated to a public good
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 _Upcoming dates of note (new in **bold**)_**:**
 
@@ -127,7 +127,7 @@ _Upcoming dates of note (new in **bold**)_**:**
 
 * * *
 
-###### **If you appreciate this newsletter, thank ConsenSys**
+## **If you appreciate this newsletter, thank ConsenSys**
 
 This newsletter is made possible by [ConsenSys](https://consensys.net/).  
 
@@ -140,7 +140,7 @@ If you're unhappy with editorial decisions or anything that I have written in th
 
 * * *
 
-###### **This headline stays as long as so many people continue to link to old URL and not the right one: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
+## **This headline stays as long as so many people continue to link to old URL and not the right one: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
 
 Archive on the web if you’re linking to it: [https://weekinethereumnews.com/week-in-ethereum-news-august-24-2019/](https://weekinethereumnews.com/week-in-ethereum-news-august-24-2019/)
 

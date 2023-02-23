@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> May 16, 2021"
 date: "2021-05-16"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -103,7 +103,7 @@ Try [Kwenta](https://kwenta.io/) today!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Synthetix are hiring: [Growth Marketer](https://jobs.defialliance.co/companies/synthetix/jobs/4454460-growth-marketer), [Senior Designer](https://jobs.defialliance.co/companies/synthetix/jobs/4538964-senior-designer)
 - Ethereum Foundation hiring a [Cryptography Researcher - ZK VMs](https://www.iacr.org/jobs/item/2576)
@@ -126,7 +126,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

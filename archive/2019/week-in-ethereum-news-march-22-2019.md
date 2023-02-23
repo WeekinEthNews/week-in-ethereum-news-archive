@@ -3,7 +3,7 @@ title: "March 22, 2019"
 date: "2019-03-23"
 ---
 
-###### **News and Links**
+## **News and Links**
 
 **Layer 1**
 
@@ -96,7 +96,7 @@ date: "2019-03-23"
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 _Upcoming dates of note (new in **bold**)_**:**
 
@@ -115,7 +115,7 @@ _Upcoming dates of note (new in **bold**)_**:**
 
 * * *
 
-###### **If you appreciate this newsletter, thank ConsenSys**
+## **If you appreciate this newsletter, thank ConsenSys**
 
 This newsletter is made possible by [ConsenSys](https://consensys.net/).  
 
@@ -128,7 +128,7 @@ If you're unhappy with editorial decisions or anything that I have written in th
 
 * * *
 
-###### **Update links to new URL: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
+## **Update links to new URL: [weekinethereumnews.com](https://weekinethereumnews.com/)** 
 
 Archive on the web if you’re linking to it: [](https://weekinethereumnews.com/march-22-2019/)[https://weekinethereumnews.com/march-22-2019/](https://weekinethereumnews.com/march-22-2019/)
 

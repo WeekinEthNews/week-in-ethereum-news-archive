@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> March 7, 2021"
 date: "2021-03-07"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -108,7 +108,7 @@ Chainlink’s biggest hackathon yet is right around the corner! Join us from Mar
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Switchain](https://www.switchain.com/) is looking for a [VP of Business Development](https://cryptocurrencyjobs.co/sales/switchain-vp-of-business-development/). Remote, full-time
 - At the edge of blockchain R&D. [Rust](https://chainsafe.io/careers/openpositions/rust-developer), [Golang](https://chainsafe.io/careers/openpositions/lead-golang-developer), [Solidity](https://chainsafe.io/careers/openpositions/solidity-engineer). [Join ChainSafe](https://chainsafe.io/careers/openpositions)!
@@ -130,7 +130,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

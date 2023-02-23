@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 3, 2021"
 date: "2021-07-03"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -100,7 +100,7 @@ Next week, Element will be adding a new term for crvTriCrypto (currently ~30% AP
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - NFT innovator SuperRare seeks [Director of Eng](https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering) following Series-A fundraise
 - EF seeking [Formal Verification Researcher](https://hackmd.io/@leoalt/fv-zk) for Zero Knowledge apps
@@ -119,7 +119,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

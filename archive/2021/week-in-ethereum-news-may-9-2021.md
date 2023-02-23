@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> May 9, 2021"
 date: "2021-05-09"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -96,7 +96,7 @@ For more info check [1inch.io](https://1inch.io/?utm_source=evan_van_ness&utm_m
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - The Raiden team is hiring a [Growth and Marketing Lead](https://angel.co/company/brainbot-group/jobs/1350874-growth-marketing-lead-for-the-raiden-network) in Berlin
 - Devs + researchers; build fixed-income, leverage & P2P markets w/[Prometheus](https://www.prl.one/jobs/)
@@ -121,7 +121,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

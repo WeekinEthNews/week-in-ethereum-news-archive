@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 26, 2020"
 date: "2020-07-26"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -98,7 +98,7 @@ Building a DeFi application? Secure your project with the most secure and reliab
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Avantgarde Finance](https://avantgarde.finance/) ([Melon](https://melonprotocol.com/)): hiring for [senior solidity dev](https://www.notion.so/Senior-Smart-Contract-Developer-to-work-on-the-Melon-Protocol-641aef0d89cc419cba792445354f835b) & [frontend dev](https://www.notion.so/avantgardefinance/Front-end-developer-for-Avantgarde-Finance-6c95d0005ef3494c8d48ddedc90c3d80)
 - [Reality Cards](https://medium.com/reality-cards/announcing-reality-cards-the-worlds-first-nft-based-prediction-market-9142cffd5cf8), a new NFT-based prediction market, is seeking a [frontend dev](https://realitycards.io/careers)
@@ -111,7 +111,7 @@ Building a DeFi application? Secure your project with the most secure and reliab
 
 * * *
 
-###### **Banned for no reason by Twitter for the 7th time!**
+## **Banned for no reason by Twitter for the 7th time!**
 
 Capricious big tech companies continue to make the case for web3: Twitter has currently [suspended both of my legit accounts](https://www.evanvanness.com/post/624463633751195648/twitter-incompetence-in-one-small-image) while scammer impersonators have been live for years. Regardless of whenever they eventually give me my account back, I’m re-evaluating to what extent I want to continue to use Twitter.
 
@@ -123,7 +123,7 @@ Did you get **forwarded** this newsletter?  **[Sign up](https://weekinethereum.
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

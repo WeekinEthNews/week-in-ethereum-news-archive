@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 10, 2021"
 date: "2021-07-10"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -104,7 +104,7 @@ Try [Kwenta](https://kwenta.io/) today!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - NFT innovator SuperRare seeks [Director of Eng](https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering) following Series-A fundraise
 - Sourcify looking for an [experienced TypeScript developer](https://ethereum.bamboohr.com/jobs/view.php?id=38)
@@ -120,7 +120,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

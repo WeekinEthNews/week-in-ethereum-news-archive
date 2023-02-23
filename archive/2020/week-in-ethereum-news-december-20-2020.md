@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Dec 20, 2020"
 date: "2020-12-20"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -84,7 +84,7 @@ Follow us on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog.
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Passionate about DeFi? [Join us and drive BD at mStable](https://angel.co/company/mstable/jobs/1096364-business-development-manager)
 - SigmaPrime is hiring a [blockchain security engineer](https://blog.sigmaprime.io/blockchain-security-engineer.html)
@@ -106,7 +106,7 @@ Permalink for this week’s issue:  [https://weekinethereumnews.com/week-in-eth
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

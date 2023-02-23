@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> May 23, 2021"
 date: "2021-05-23"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -112,7 +112,7 @@ Follow Celer on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Quant (options trading) is [hiring](https://jobs.lever.co/QuantLabs) for Solidity, full stack, & designers
 - Very large game company [looking for devs/marketing](https://twitter.com/finestonematt/status/1395051881844592641) for NFT product
@@ -132,7 +132,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 24, 2021"
 date: "2021-07-24"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -112,7 +112,7 @@ date: "2021-07-24"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - 🧙 [Defi marketing wizard](https://docs.float.capital/docs/marketing-lead?enl), Float.Capital seeks 🧙
 - [Props](https://www.props.xyz/) is hiring a [Front End Blockchain Engineer](https://jobs.gohire.io/props-0ds2x7xe/front-end-blockchain-engineer-40634/)
@@ -129,7 +129,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

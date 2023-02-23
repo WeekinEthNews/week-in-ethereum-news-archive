@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Feb 1, 2021"
 date: "2021-02-01"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -103,7 +103,7 @@ Now you can [trade 1000+ DeFi tokens](https://matcha.xyz/?id=wien) on Matcha!
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - MetaMask is hiring engineers for a variety of positions. Apply [here](https://consensys.net/open-roles/2572388/).
 - [Cartesi](https://cartesi.io/), a rollups solution, [is looking to hire skilled engineers](https://angel.co/company/cartesi/jobs)
@@ -125,7 +125,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

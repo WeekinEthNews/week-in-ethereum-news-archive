@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> March 14, 2021"
 date: "2021-03-14"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -101,7 +101,7 @@ Follow Celer on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Nomic Labs is hiring a [senior dev and an engineering manager](https://www.notion.so/Nomic-Labs-jobs-991b37c547554f75b89a95f437fd5056)
 - [Powerloom Protocol](https://powerloom.io/) is looking for [Distributed Systems Engineers](https://angel.co/company/powerloom/jobs) in Bangalore
@@ -124,7 +124,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> April 18, 2021"
 date: "2021-04-19"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -87,7 +87,7 @@ Trade synthetic cryptocurrencies, forex, commodities, and equities both long and
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - bZx is hiring a Lead Developer. 400k/year total comp. Apply [here](https://angel.co/company/bzx-1/jobs/1181110-senior-full-stack-developer).
 - [Enzyme](https://enzyme.finance/) is hiring. [Solidity dev](https://www.notion.so/Senior-Smart-Contract-Developer-to-work-on-Enzyme-641aef0d89cc419cba792445354f835b), [data engineer](https://www.notion.so/Data-Engineer-a412646a06a046bfaac26085b4695857), [UX/UI designer](https://www.notion.so/UX-UI-Designer-e115c94e193b4e98b98283fa1bcaf3b8) & [growth eng](https://www.notion.so/Growth-Engineer-d682408e8500447888859f9d47bc4a79).
@@ -109,7 +109,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

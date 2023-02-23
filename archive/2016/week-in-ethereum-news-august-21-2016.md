@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 21, 2016"
 date: "2016-08-21"
 ---
 
-###### Opening Thoughts – Why Ethereum Has Value  
+## Opening Thoughts – Why Ethereum Has Value  
 
 Ether’s value comes from two things: 1) it is the native currency (“fuel”) for Ethereum’s decentralized application platform, and 2) it could become the payment method for the backbone of the Internet of Things.
 
@@ -11,7 +11,7 @@ Yet, as one of Ethereum’s key researchers [Vlad Zamfir](https://t.umblr.com/r
 
 It’s important to keep in mind that Ethereum’s virtual machine is basically a decentralized computer that is about as powerful as a computer from decades ago. Hence, much of Ethereum’s current value is speculation into how successful the project will be at improving on the challenges Vlad identified – scalability, efficiency, and security.
 
-###### Let’s Talk Token Sales  
+## Let’s Talk Token Sales  
 
 If you think these problems are solvable, then presumably many of the early decentralized apps (dapps) will be quite successful.  As [Demian Brener writes](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fbitcorps-blog%2Fon-tokens-and-crowdsales-309e49d9530d%23.64idnvu8g&t=NzU4MzdhZWNkMGZlYTk5MTU4NGJiZDI3M2MzOTJmY2ZlZTRlY2JhZCxQSld4TWhRdg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180804998%2Faugust-21-2016&m=0):
 
@@ -21,7 +21,7 @@ On the other hand, London lawyer Preston Byrne wrote a counterpoint: [Against T
 
 **Caveat emptor**.  Don’t put value at risk without due diligence.  Let’s avoid more instances of TheDAO.
 
-###### Upcoming crowdsales?  
+## Upcoming crowdsales?  
 
 The upcoming sale most interesting to me is [Golem](https://t.umblr.com/redirect?z=http%3A%2F%2Fgolemproject.net%2F&t=MGNkNmRlMmMzYmIzNDNmZTBiNWJhYjA3ZTM1MTkxMDU3YzQ3MzAwZixQSld4TWhRdg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180804998%2Faugust-21-2016&m=0).  They bill themselves as (in my words) “Uber for computing power.”   In other words, decentralized AWS.
 
@@ -29,7 +29,7 @@ I’m fascinated by the idea, but I haven’t yet sussed whether this means “d
 
 **EASY PREDICTION**: _In the coming months, we will see a flood of crowdsales_, even from previously unknown projects.  That’s part of the reason I started this email list - I figure if I research a bunch of these, I may as well share my opinions.
 
-###### Ok, crowdsales = Ethereum as app platform.  What about Ethereum as Internet of Things backbone?                                      
+## Ok, crowdsales = Ethereum as app platform.  What about Ethereum as Internet of Things backbone?                                      
 
 - [The first Proof of Concept of Raiden, the Ethereum-based Lightning Network is now available!](https://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fraiden-network%2Fraiden%2Fwiki%2FRaiden-PoC%25E2%2580%25900&t=ZTBlYWIzYWFmMWY5ZThhN2JhOGI3NGFhMDljNjhkNWMzNjI4ZjI0NCxQSld4TWhRdg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180804998%2Faugust-21-2016&m=0)
 
@@ -41,7 +41,7 @@ To quote a [comment on Reddit:](https://t.umblr.com/redirect?z=https%3A%2F%2Fww
 
 - Imagine when 1bn+ IoT devices are sending micro transactions back and forth. In a case like this it would be very convenient that they don’t have to pay any fees, that the transactions happen right away, and that the main Ethereum blockchain isn’t bloated with millions of transactions per day.
 
-###### Quick hits
+## Quick hits
 
 - Vitalik on “[stabler coins](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F4xtd9z%2Fstabler_coins%2F&t=MWVkNjM5NmMxY2NhYWJlZjQ4MThlNDdkZmNmOWJjNDNjMjZmZTUwZCxQSld4TWhRdg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180804998%2Faugust-21-2016&m=0).”  I’m skeptical of the idea, because these things tend to fail during crises.  In the meantime, however, stable coins might grease the onramp for the general public toward dapps.
 - An influential [anti-forker now says he thinks the Foundation handled the hard fork correctly](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F4yfdis%2Fopinion_change_it_was_ok_to_have_the_community%2F&t=MDYzYzdmMzZiZTAyNjgzMDcyNGZiM2M4MjZjODRmYWUwODJmOGIxOCxQSld4TWhRdg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180804998%2Faugust-21-2016&m=0).

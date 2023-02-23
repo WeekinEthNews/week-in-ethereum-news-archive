@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 26, 2021"
 date: "2021-06-26"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -88,7 +88,7 @@ Don’t forget to follow Aurora on [Twitter](https://twitter.com/auroraisnear) a
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - NFT innovator SuperRare seeks [Director of Eng](https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering) following Series-A fundraise
 - [Garnet](https://careers.garnet.app/) is hiring web3 engineers to build better crypto community spaces
@@ -107,7 +107,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> February 11, 2023"
 date: "2023-02-11"
 ---
 
-###### Eth News and Links
+## Eth News and Links
 
 **Shapella (Shanghai + Capella) upgrade**
 
@@ -224,7 +224,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### Upcoming Dates of Note
+## Upcoming Dates of Note
 
 _(new/changes in_ **_bold_**_)_
 

@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> May 10, 2020"
 date: "2020-05-10"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -95,7 +95,7 @@ date: "2020-05-10"
 
 * * *
 
-###### **Housekeeping**
+## **Housekeeping**
 
 Follow me on Twitter [@evan\_van\_ness](https://twitter.com/evan_van_ness) for a one-stop source for real-time Ethereum news.
 
@@ -105,7 +105,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-may-10-2020/](h
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

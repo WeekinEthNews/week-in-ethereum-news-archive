@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> September 10, 2022"
 date: "2022-09-10"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **PoW switch off (the Merge)**
 
@@ -141,7 +141,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Upcoming Dates of Note**
+## **Upcoming Dates of Note**
 
 _(new/changes in_ **_bold_**_)_
 

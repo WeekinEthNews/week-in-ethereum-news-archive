@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> August 14, 2021"
 date: "2021-08-14"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -116,7 +116,7 @@ NEAR Protocol is hosting the [METABUIDL Hackathon](https://metabuidl.splashthat.
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Full-stack/mobile lead and architect](https://www.linkedin.com/in/shawnarney). Seeking challenging opportunity.
 - Solidity is [hiring a C++ dev](https://ethereum.bamboohr.com/jobs/view.php?id=40&source=weekinethnews)
@@ -134,7 +134,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

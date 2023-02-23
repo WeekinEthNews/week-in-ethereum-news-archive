@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> May 30, 2021"
 date: "2021-05-30"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -122,7 +122,7 @@ Don’t forget to follow Aurora on [Twitter](https://twitter.com/auroraisnear) a
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - A leader in the NFT ecosystem, Immutable, are hiring a [Head of Blockchain](https://jobs.lever.co/immutable/9c796e83-3d62-4c2a-818b-9e3a136782d1?lever-origin=applied&lever-source%5B%5D=Ethereum%20news)
 - Livepeer is hiring a [Protocol Engineer](https://livepeer.org/jobs/protocol-engineer)
@@ -141,7 +141,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

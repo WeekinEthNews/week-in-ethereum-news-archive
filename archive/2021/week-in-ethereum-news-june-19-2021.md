@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 19, 2021"
 date: "2021-06-19"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -102,7 +102,7 @@ Follow Celer on [twitter](https://twitter.com/CelerNetwork), [blog](https://blog
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - NFT innovator SuperRare seeks [Director of Eng](https://superrare.breezy.hr/p/f1919c5bb07b-director-of-engineering) following Series-A fundraise
 - Celer are hiring [software engineers](https://www.celer.network/career.html)
@@ -122,7 +122,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

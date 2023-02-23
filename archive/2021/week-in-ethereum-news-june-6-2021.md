@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> June 6, 2021"
 date: "2021-06-05"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -106,7 +106,7 @@ We’re also hiring for [senior systems engineers](https://nomiclabs.io/hiring) 
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [Argent is hiring](https://apply.workable.com/argenthq/) Layer 2 Solidity Engineers, JS Full Stack, iOS & Android
 - Quant (DeFi Options): [Solidity Eng](https://jobs.lever.co/QuantLabs/e5178731-3101-477b-b1b0-73b455f149fa?lever-origin=applied&lever-source%5B%5D=week%20in%20ethereum), [Designer](https://jobs.lever.co/QuantLabs/e9b98ca2-c37c-41ff-938c-93f8a6a4c5cc?lever-origin=applied&lever-source%5B%5D=week%20in%20ethereum), [Marketing Lead](https://jobs.lever.co/QuantLabs/9730189f-65ec-4f91-86db-b92a5c5be29d?lever-origin=applied&lever-source%5B%5D=week%20in%20ethereum), [DevOps](https://jobs.lever.co/QuantLabs/ef7fd355-cc6b-4921-b2f6-1ed6664d86e0?lever-origin=applied&lever-source%5B%5D=week%20in%20ethereum)
@@ -127,7 +127,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

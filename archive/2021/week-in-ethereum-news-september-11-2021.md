@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 11, 2021"
 date: "2021-09-11"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -108,7 +108,7 @@ date: "2021-09-11"
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Rarible is hiring: [VP of Product](https://jobs.lever.co/Rarible/47ed8db0-2161-420c-9321-4ade80e8dece) and [Product Manager](https://jobs.lever.co/Rarible/06d88504-b740-434e-87c0-72846b9ddeeb)
 - Enzyme hiring [Solidity Eng.](https://apply.workable.com/avantgarde-finance/j/7E54B2975D/) & [Data Eng.](https://apply.workable.com/avantgarde-finance/j/C105B5596D/) $15k referral for successful hires
@@ -127,7 +127,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

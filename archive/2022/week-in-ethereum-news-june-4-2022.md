@@ -3,7 +3,7 @@ title: "Week in Ethereum News <br> June 4, 2022"
 date: "2022-06-04"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **PoW switch off (the Merge)**
 
@@ -91,7 +91,7 @@ We pledge 10% of investing profits to support Ethereum public goods.
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Ethereum Foundation: [generalist developer](https://jobs.lever.co/ethereumfoundation/6b80a26f-7db3-4415-8339-a3543a967998?lever-origin=applied&lever-source%5B%5D=Week%20in%20Ethereum) to drive strategic ecosystem inits
 - Sourcify: [TypeScript/nodejs developer](https://jobs.lever.co/ethereumfoundation/db85cf1d-6ffd-42a6-8f0d-f5a91c6ddf4a?lever-origin=applied&lever-source%5B%5D=Week%20in%20Ethereum) wanted
@@ -124,7 +124,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Upcoming Dates of Note**
+## **Upcoming Dates of Note**
 
 _(new/changes in_ **_bold_**_)_
 

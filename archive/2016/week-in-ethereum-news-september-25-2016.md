@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 25, 2016"
 date: "2016-09-25"
 ---
 
-###### DevCon2 News  
+## DevCon2 News  
 
 - For DevCon2 play-by-play, the [best writeups for each day are at David Burela’s blog](https://t.umblr.com/redirect?z=https%3A%2F%2Fdavidburela.wordpress.com%2F&t=OTRiNzQ3YzI1YjgwYWFlMDkxODI1NThhZTg1OGQ4NTkxYzhlNTBlNSxzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0).  Highly recommended.
     - Different blog with [less commentary, but tons of notes on Day 1 slides](https://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fkidwai%2Fdiary%2Fblob%2Fmaster%2Fdevcon-2%2FREADME.md&t=ZmUyZDgxZjY0NzhjN2Q5N2Y4MWQyZGU2Yjc2MGZmOWRjMDFkNzU1OCxzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0).  
@@ -68,7 +68,7 @@ date: "2016-09-25"
 - [How Ujo wants to dirsupt the $15 billion nusic industry](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.forbes.com%2Fsites%2Fjonathanchester%2F2016%2F09%2F16%2Fhow-blockchain-startups-are-disrupting-the-15-billion-music-industry&t=MDI3ZDUwYTNmNWRhMWZiOTMxNzZjM2EzOWYzYjRhOWRjMmY5YWUxNCxzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0)
 - Coindesk talks [Ethereum, Swarm, and Whisper](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.coindesk.com%2Fethereums-holy-trinity-takes-shape-swarm-testnet-arrives%2F&t=N2IxMzhmNTg3MzRkMWJkZjEwNmFjNmI2ODhjYzRmNGJlN2Q1NzM3NSxzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0): the three fundamentals of web 3.0.
 
-###### Dates of note
+## Dates of note
 
 - 9/26 – eSports [First Blood](https://t.umblr.com/redirect?z=https%3A%2F%2Fsteemit.com%2Fcrowdsale%2F%40jasonmcz%2Ffirstblood-the-crowdsale-of-the-century&t=YzYxYjhhZWNlMWI5NjgzOTQ0N2ExZGMyOTRlZDAyODRkODlhYmU5NixzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0) crowdsale begins  
     
@@ -80,7 +80,7 @@ date: "2016-09-25"
 - September TBA – [SingularDTV](https://t.umblr.com/redirect?z=https%3A%2F%2Fsingulardtv.com%2Fsign-up&t=YzI4MzU1Y2QxYThiMzMzOGFmNTA0YjExNTUxOGIxY2RiMzkwYWUwNixzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0) crowdsale (“within a few weeks” as of 9/13)
 - November TBA - .ETH name system goes live
 
-###### ICO thoughts – First Blood
+## ICO thoughts – First Blood
 
 First Blood more or less fits into my [investing thesis](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F150000659151%2Fwhats-happening-in-ethereum-issue-2-82816&t=MjU2ODY2OGU3MzY1MDM2YjUyMmRjNmUwNWQ2ODUxZDNhZjAzYzg2OCxzUDBLZjNYUA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155178244818%2Fseptember-25-2016&m=0). It’s an eSports platform for players who want to bet money against each other, seemingly solving things on the blockchain that might not work well currently or in a centralized manner.  Potentially with clients so motivated that they’ll figure out blockchains.
 
@@ -114,7 +114,7 @@ There’s a few behavioral psych reasons why this makes sense.  However, I pers
 
 **Disclaimer**: This is not investing advice. Nothing I write in this newsletter is investing advice. Make your own decisions and be responsible for them. I don’t know your portfolio, tax considerations, goals, tolerance for risk, etc so I can’t possibly even be close to giving you investing advice.    Also, it’s expensive.       
 
-###### If you liked this, help it continue by sharing  
+## If you liked this, help it continue by sharing  
 
 I’m tweeting more about Ethereum, so [follow me @evan\_van\_ness](https://twitter.com/evan_van_ness) and let me know how I can make this newsletter more useful to you.
 

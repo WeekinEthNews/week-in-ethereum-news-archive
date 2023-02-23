@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> September 4, 2016"
 date: "2016-09-04"
 ---
 
-###### Quick Hits
+## Quick Hits
 
 - [Lessons learned from making a chess game on Ethereum](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40graycoding%2Flessons-learned-from-making-a-chess-game-for-ethereum-6917c01178b6&t=NmJmMDQzZTY2NmRjZWEyNjQxYjkzMWQ4MDVmNmE5NDMyYzczNzFjYixpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0).
 - Monero has been hot in crypto recently.  Both [ring signature mixers](https://t.umblr.com/redirect?z=https%3A%2F%2Fblog.ethereum.org%2F2016%2F03%2F05%2Fserenity-poc2%2F&t=NDM2MDU2YjVkZDBiMzBiNGVmNGY1NzhmMDRjYjg4MTAwNjljNjE1MSxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0) and [zero-knowledge snark proofs](https://t.umblr.com/redirect?z=https%3A%2F%2Fz.cash%2Fblog%2Fzksnarks-in-ethereum.html&t=ZDNiMDI2MDY5MmRhMDA2NmQ4OGFkYTA3ZGY0YzFlNTgxMTQ2OWRkYSxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0) privacy enhancers are planned for Ethereum, thus providing similar levels of privacy.
@@ -24,7 +24,7 @@ date: "2016-09-04"
 - Vitalik and Coinbase co-founder Fred Ehrsam [talk Ethereum](https://t.umblr.com/redirect?z=http%3A%2F%2Fa16z.com%2F2016%2F08%2F28%2Fethereum%2F&t=MWJmZWZkZDVkYTQyYWRlYTYyYjFhNzBkMmRhYzg2OGRlZDkzMjI3MyxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0) with Chris Dixon.  It’s aimed at tech folks who haven’t heard of Ethereum. If you’re on this email list, you probably won’t learn much, but it’s great PR to get more developers interested in Ethereum.
 - R3CEV shares my [skeptical POV on stablecoins](https://t.umblr.com/redirect?z=https%3A%2F%2Fr3cev.com%2Fblog%2F2016%2F8%2F24%2Fstablecoins&t=NDllOGYxM2I5OGY2OWIwODM3ZTQ4OTczNzUwMmFmNDg1ODcyMzdiZCxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0).
 
-###### Dates of note
+## Dates of note
 
 - 9/7 – [RexMLS](https://t.umblr.com/redirect?z=http%3A%2F%2Flive.rexmls.com%2F%23%2Ftokenswap&t=YzMwMjFiOWJjZWI1Y2MwZjNiYTEwZDJmM2NmNmVmZjc0YzdmZDBhMyxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0) crowdsale closes
 - 9/7 – Next bonus tier of [Iconomi](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.iconomi.net%2F&t=YTg4M2ZiY2U0ZThkYjViNDI5MzQ5ZTFjNWU3MmM5MzVkZjRmN2I4NCxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0) ends.
@@ -35,7 +35,7 @@ date: "2016-09-04"
 - September TBA – Golem crowdsale begins
 - 9/29 - Iconomi closes
 
-###### ICO Investing Strategies
+## ICO Investing Strategies
 
 1. _Spray and Pray_. Invest in every ICO crowdsale that passes a minimum screening of “Are these founders outright scammers?” or some similar low-effort screen.   The goal is essentially to create your own “index fund” of ICOs.  The downside is that you’ll have lots of relatively small amounts of tokens to keep track of.
 2. _Scratch Your Own Itch_.  Put differently, this is Peter Lynch’s recommendation to [invest in the products and service you love](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0743200403%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D9325%26creativeASIN%3D0743200403%26linkCode%3Das2%26tag%3Devanvanness-20%26linkId%3D36f99725da4706ca487ff0fb3beb13c4&t=MTVmMTU5YzM2NGE1NTQwNzk2OWI5MGZiYjUyM2UwM2FjYWZlNTBkOCxpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0).  Unless you’re investing passively (or semi-passively like Spray and Pray), investing in something you don’t understand is probably the most fundamental investing mistake.  When you scratch your own itch, you know there’s at least one person who really wants the product/service.
@@ -48,7 +48,7 @@ In my opinion, most people are probably best off doing _Spray and Pray_ or _S
 
 _Disclaimer_: This is not investing advice. Nothing I write in this newsletter is investing advice. Make your own decisions and be responsible for them. I don’t know your portfolio, tax considerations, goals, tolerance for risk, etc so I can’t possibly even be close to giving you investing advice.
 
-###### Bonus Content – My Current Framework Analyzing ICOs
+## Bonus Content – My Current Framework Analyzing ICOs
 
 I wrote a longer framework of how I analyze Ethereum ICOs, including a checklist of questions I ask myself.  It’s two pages, so too long to put in this email.  
 
@@ -56,7 +56,7 @@ I wrote a longer framework of how I analyze Ethereum ICOs, including a checklist
 
 If you prefer to donate Ether (any amount) instead of sharing, 0x96d4F0E75ae86e4c46cD8e9D4AE2F2309bD6Ec45
 
-###### Preliminary ICO Thoughts: One By One
+## Preliminary ICO Thoughts: One By One
 
 Hong.   [Site](https://t.umblr.com/redirect?z=http%3A%2F%2Fhongcoin.org&t=MjFjZDJhYjQ2MjVkOGVkNjUyN2EzNjFkZGYzZTdjZTE1ZjJjN2I1NixpMDM0Mm5DRg%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155180207393%2Fseptember-4-2016&m=0)
 

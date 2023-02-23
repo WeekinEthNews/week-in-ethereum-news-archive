@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> July 31, 2021"
 date: "2021-07-31"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet execution layer**
 
@@ -118,7 +118,7 @@ If you’re looking for protected yield, [Nexus Mutual](https://nexusmutual.io/)
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Ethereum Foundation: [Test Engineer](https://ethereum.bamboohr.com/jobs/view.php?id=39) for consensus and execution layers
 - [Synthetix](https://twitter.com/kaiynne/status/1415573456146501634): 2 Solidity engineers to work direct with Kain Warwick in Sydney
@@ -134,7 +134,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ether
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(new/changes in **bold**)_**:**
 

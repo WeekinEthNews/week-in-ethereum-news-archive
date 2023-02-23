@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> November 6, 2016"
 date: "2016-11-06"
 ---
 
-###### News and Links
+## News and Links
 
 **Top**  
 

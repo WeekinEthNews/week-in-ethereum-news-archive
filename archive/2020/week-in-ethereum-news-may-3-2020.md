@@ -3,7 +3,7 @@ title: "Week in Ethereum News<BR> May 3, 2020"
 date: "2020-05-03"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -98,7 +98,7 @@ Decentralized oracles are a key capability enabling smart contracts to reach the
 
 * * *
 
-###### Housekeeping
+## Housekeeping
 
 [First issue post-ConsenSys](https://twitter.com/evan_van_ness/status/1256336908197732352). As a reminder, this newsletter is and has always been 100% owned by me.
 
@@ -108,7 +108,7 @@ Permalink: [https://weekinethereumnews.com/week-in-ethereum-news-may-3-2020/](ht
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

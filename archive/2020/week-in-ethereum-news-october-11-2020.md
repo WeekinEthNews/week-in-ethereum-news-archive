@@ -3,7 +3,7 @@ title: "Week in Eth News <BR> October 11, 2020"
 date: "2020-10-11"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -97,7 +97,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - DeFi devs! Yield is hiring for Solidity and front-end – contact@yield.is
 - Live for DeFi? [mStable](https://twitter.com/mstable_) is looking for a [Smart Contract/Protocol Developer](https://cryptocurrencyjobs.co/engineering/mstable-protocol-developer-defi)
@@ -112,7 +112,7 @@ Matcha aggregates liquidity across decentralized exchange networks to offer you
 
 * * *
 
-###### **🥩 Staking pool questionnaire: October 15 🥩** 
+## **🥩 Staking pool questionnaire: October 15 🥩** 
 
 My [questionnaire for staking pools](https://docs.google.com/document/d/1wrzKXff2XwY4Bu5ynVqvlPXI4xqM4-Hwx7Jh7_-1IGg/edit) is due October 15th.
 
@@ -126,7 +126,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-eth-n
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

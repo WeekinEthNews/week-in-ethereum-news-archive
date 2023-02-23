@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> October 16, 2016"
 date: "2016-10-16"
 ---
 
-###### News and Links
+## News and Links
 
 **Top**
 
@@ -67,7 +67,7 @@ date: "2016-10-16"
 - Dun & Bradstreet [announces](https://t.umblr.com/redirect?z=http%3A%2F%2Fblogs.wsj.com%2Fcio%2F2016%2F10%2F14%2Fdun-bradstreet-tests-blockchain-for-trade-finance%2F&t=ZGRhMTA4YWYyNjI0MmVmNTVkNTFiNzAzMjE1OGQ3MDU0YjMzMTUwZixOSnB1em1ESA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155176171838%2Foctober-16-2016&m=0) Ethereum based project in the Wall Street Journal.
 - [Central banks consider blockchains](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.nytimes.com%2F2016%2F10%2F12%2Fbusiness%2Fdealbook%2Fcentral-banks-consider-bitcoins-technology-if-not-bitcoin.html%3F_r%3D0&t=ZTZlZjRiODBiOTNhM2Q5ODQzODI5ODBlMGVmY2Y4NzQzYTAxOGU5YSxOSnB1em1ESA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155176171838%2Foctober-16-2016&m=0), from the NYTimes.
 
-###### Dates of note      
+## Dates of note      
 
 - Oct 20 – ether.camp [ICO begins](https://t.umblr.com/redirect?z=https%3A%2F%2Fforum.ether.camp%2Fc%2FHackerGold&t=NzBkMWQ4NThlMmViZjgzYjU0YjdiOGI5NTFhMzcxZTYxNWEyMWVjZCxOSnB1em1ESA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155176171838%2Foctober-16-2016&m=0)
 - Oct 26 – [Inchain](https://t.umblr.com/redirect?z=http%3A%2F%2Fico.inchain.io&t=MGExMDIwYzM0ZmY1OTNkYzZlNDljYTZiYzZiZTk0OWRmNDZiYTFlOSxOSnB1em1ESA%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F155176171838%2Foctober-16-2016&m=0) crowdsale begins.
@@ -78,7 +78,7 @@ date: "2016-10-16"
 - Dec 7 – Inchain crowdsale ends
 - Dec 15 – vDice crowdsale ends
 
-###### Token Sale Standards  
+## Token Sale Standards  
 
 Plenty of activity this week:
 

@@ -3,7 +3,7 @@ title: "Week in Eth News <BR> October 18, 2020"
 date: "2020-10-18"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Eth1**
 
@@ -106,7 +106,7 @@ Want to join the team of world-class researchers and engineers building the lead
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - 0x hiring a [Matcha marketing manager](https://boards.greenhouse.io/0x/jobs/4923909002) and [all flavors of developers](https://0x.org/about/jobs)
 - [Dune Analytics](https://careers.duneanalytics.com/): hiring 1st non-founder team members – remote ~CET time zone
@@ -118,7 +118,7 @@ Want to join the team of world-class researchers and engineers building the lead
 
 * * *
 
-###### **Wanton self-promotion section**
+## **Wanton self-promotion section**
 
 If you’re wondering “[why didn’t my post make it into Week in Ethereum News](https://www.evanvanness.com/post/179914035841/why-didnt-my-post-make-the-newsletter),” then please put it on an Ethereum subreddit; emails/DMs are not part of my workflow.
 
@@ -130,7 +130,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-eth-
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

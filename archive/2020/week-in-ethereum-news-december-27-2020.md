@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Dec 27, 2020"
 date: "2020-12-27"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **EIPs**
 
@@ -72,7 +72,7 @@ Our gift to you: [Twenty-six new detectors](https://github.com/crytic/slither/r
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - Nexus Mutual: [experienced Solidity dev](https://angel.co/company/nexus-mutual-1/jobs/967538-smart-contract-engineer) in Euro timezones
 - SigmaPrime is hiring a [blockchain security engineer](https://blog.sigmaprime.io/blockchain-security-engineer.html)
@@ -94,7 +94,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 

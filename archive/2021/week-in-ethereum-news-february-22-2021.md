@@ -3,7 +3,7 @@ title: "Week in Ethereum News <BR> Feb 22, 2021"
 date: "2021-02-22"
 ---
 
-###### **Eth News and Links**
+## **Eth News and Links**
 
 **Mainnet**
 
@@ -89,7 +89,7 @@ Trail of Bits wants YOU to [apply for a position](https://www.trailofbits.com/c
 
 * * *
 
-###### **Job Listings**
+## **Job Listings**
 
 - [DeversiFi](https://www.deversifi.com/careers) is hiring senior developers and marketing champions
 - Are you a front-end dev? [Join Balancer!](https://angel.co/company/balancer-labs-1/jobs/1146637-front-end-engineer) Email: career \[at\] balancer.finance
@@ -112,7 +112,7 @@ Permalink for this week’s issue: [https://weekinethereumnews.com/week-in-ethe
 
 * * *
 
-###### **Dates of Note**
+## **Dates of Note**
 
 Upcoming dates of note _(_new/changes in **bold**_)_**:**
 
