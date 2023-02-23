@@ -1,0 +1,113 @@
+---
+title: "Week in Ethereum News <BR> February 12, 2017"
+date: "2017-02-12"
+---
+
+## News and Links
+
+**Top**
+
+- State channel scalability: [Update from the Raiden team on development progress](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40brainbot%2Fupdate-from-the-raiden-team-on-development-process-announcement-of-raidex-6c94b4edcf73%23.hgpqv5s9k&t=MzE1Y2E1ZDE0YTZkMGRhODY2MGFjNThjMGNkZTE5MTNiNzk3ZWU3NCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) and RaidEX
+    - Raiden MVP release planned for March  
+        
+- Not state channels: [Make Ethereum massively scalable today with delayed computations](https://t.umblr.com/redirect?z=https%3A%2F%2Fgist.github.com%2FMaiaVictor%2F441e32a3ddf2acbe8abe46dfecdf5345&t=YjM1NjdlMTg4MjY4ZGQ4NjUxM2ZiYWJkNmRhZDNhZjhkYzRmNTAxZSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Per Vitalik, the 3 [greatest challenges for the Foundation](https://t.umblr.com/redirect?z=http%3A%2F%2Fblockgeeks.com%2Fama%2Fvitalik-buterin-ama-ask-anything%2F&t=NTdhMjAwMzA1ODg5MTMzOTFlMTM1OTYwODFmZjIxOTBhYzAwOTE1OCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) in 2017 are: 1) more revenue, 2) finding more of the right researchers, and 3) “Improving the foundation’s external communications; working on helping the community understand what the foundation is doing, why things are done the way they are done, and what the progress is.”
+    - I hope this newsletter helps with #3. 
+        
+
+**Stuff for Dapp developers**
+
+- [Creating an Ethereum-enabled command line tool](https://t.umblr.com/redirect?z=http%3A%2F%2Ftruffleframework.com%2Ftutorials%2Fcreating-a-cli-with-truffle-3&t=YTgwYWE4NGEwMDgxMWVjODAzMGQ5ODhiZDk0MDg3YTcxNDc3ZTM0OSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) with Truffle 3.0
+- [Embark 2.3.0](https://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fiurimatias%2Fembark-framework%2Freleases%2Ftag%2F2.3.0&t=NDU0MjkwNTJkNTdhZTBiN2ExZDlkYzlhZWJhY2I3ZGFjYTY5NDYyZCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+    - [Plugin](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fembark-babel&t=N2M0ZTM5OTU4YmUwZjM5MzRmOGMxYjU0NDUxOWNkOGMxN2MzMmMzYSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) to support es5, es6, es7 & react  
+        
+- Christian Reitwießner on [what is and isn’t possible with zk-SNARKs](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5sqohc%2F2_questions_about_uport%2F&t=YTZkYThhZDIyOWRkZjA5YmY3ZmQwY2ZiNzA5NjM4NzcyYTc0MmEyMCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+    - Eli Ben-Sasson video presentation of [zk-snarks with no trusted setup](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHJ9K_o-RRSY&t=ZjY5MWE3MzE0YjgyMDA3MGFlOGFmODRiZTA0MTRlMmZhZjEwYmM5ZCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) (and [Reddit thread](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5skvmn%2Feli_bensasson_presents_zksnarks_with_no_trusted%2F&t=MmQ5ZmM2Mzg4MGY3YjhkM2Y3NGU1NDRmYjU5NTkyNzcyMzhkYzZkYSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0))  
+        
+- [uml to solidity](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5t6qa5%2Fuml_to_solidity_109%2F&t=OGQ2ZDVlN2NiYzk3Y2UzMzgwOTE5YjY3OWU1N2NiMTI4ZmNkNDAyNSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0), v 1.0.9
+- [web3j](https://t.umblr.com/redirect?z=http%3A%2F%2Fconorsvensson.com%2F2017%2F02%2F10%2Fweb3j-2-0-milestone-release%2F&t=MGIyNmZjNzM5ZjQwM2Y3OTAxMjAxNTcwZTMzNzBjOTEyYmQxZjdkYyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0), milestone 2.0 release
+
+**Client releases**
+
+- [Parity 1.5.2](https://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fethcore%2Fparity%2Freleases%2Ftag%2Fv1.5.2&t=ZjMyNDE2ZWI1YmYxYTA0ZGQ1YTk0N2UzZTczOGQ2Y2UxMjUxZjZjMSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) includes browser extension
+
+**Protocol**
+
+- Video of [Vlad Zamfir January talk](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbPQfWTizYpg&t=OTZkODk5YTYzM2FkNmUwN2E2ZmM2Y2NmYzIyMGY1N2I2YmEzZTY3ZCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) at Stanford.  \[All videos [from that conference](https://t.umblr.com/redirect?z=https%3A%2F%2Fcyber.stanford.edu%2Fblockchainconf&t=ZDBhZWY4NzliYWI0MDA3MjE1MGNiYWExOTgwZDViMTUwNDgwMjBkOSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0).\]
+- [Erik Voorhees](https://t.umblr.com/redirect?z=http%3A%2F%2Fmoneyandstate.com%2Fthe-true-cost-of-bitcoin-transactions%2F&t=MWZhMjcyMzUyMTc4MmI0NjY2OTI5NzU2NTA4NjZkZTc0MWMwNTcyNyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0): “I’ve found myself now holding a modest balance of Ethereum merely for the purpose of small (not micro) payments to friends. It’s just cheaper and more reliable. And I’m doing that with more allegiance to Bitcoin than almost anyone on Earth.”
+    - [Joe Lubin](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5tde31%2Ferik_voorhees_on_twitter_im_finding_myself%2Fddmmtfx%2F%3Fcontext%3D3&t=OWUwNjE5NTI2OWE3NjhkZTNmYjU0YzE4MmU0Y2I0NTk1NmNmODEzNSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0): “Ethereum has an ambitious, aggressive, coordinated and achievable roadmap to scalability. Bitcoin has an embattled, haphazard ongoing struggle to make the slightest progress on scalability. First system that demonstrates genuine scalability will quickly dominate.”  
+        
+
+**Ecosystem**
+
+- Chronicled is thinking about making an [Ethereum CryptoSeal](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5tkfqm%2Fchronicled_do_community_members_want_a_cryptoseal%2F&t=NTZlNWZmZjY2NDk1MWZjZDMxZTNmMmIzODg1YjkyNjNmYjI5N2UzMCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) for physical assets
+- [Cryptomarket](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.cryptomkt.com%2F&t=N2YyNzZhZGFkYmY3NzA3MmY2NWE2MzcyODMzMGE0OWZiNTMyOTdkMyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) gets some [press for being the first Ether-only exchange](https://t.umblr.com/redirect?z=http%3A%2F%2Fcriptonoticias.com%2Fcasas-de-cambio%2Fcryptomkt-latinoamerica-primer-mercado-exclusivo-ethereum%2F&t=MThlNjUyNWYxM2ZiMWQzNmQ3MGYxMzEyZDg5OTZjMmUwMmRjYTBhMSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) in Latin America.
+- [Ethers Wallet](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5sv0ch%2Fethers_wallet_for_ios_ethersio%2F&t=YmQ0ODYxOGU5MGZmZTU4YWZiMGFmZTQ0Y2NjOTE0NDkxODU2MmY4NyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) for iOS
+- Some folks are bringing back TheDAO and [calling it Vega](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5tqsq1%2Fvega_ethereum_venture_capital_and_crowdsale%2F&t=MmVmYzNiYmQyN2QzYzBhOGYxNjdlMzdhMDVhYjRiM2IzZmVhZGM2MSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0).
+- It’s unmistakeable that there is some tension among core developers.  This is another [small bit of evidence](https://twitter.com/peter_szilagyi/status/830722679774859264)
+- Both Dfinity and Santiment sold out their presales quite quickly.  Dfinity in 74 mins, and Santiment in about 2 hours.
+    - How Santiment [hopes to transform crypto trading](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fsantiment%2Fan-overview-how-santiment-will-transform-crypto-trading-eb77f0476a98&t=ZGU1MDM1YzU1MWVmNDBkMTg4ZmQyMTk1MzRlYjc5MDgyYzNkN2E5OSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)  
+        
+
+**Project Updates**
+
+- [Aragon](https://t.umblr.com/redirect?z=https%3A%2F%2Faragon.one%2F&t=ZDIwNDcwNzIxZjUyMTIyMGU5MzQwNWQxODVjMjgyMzEwMzIwMzg0MixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) - UI for managing your company (cap table, vesting, payments, voting, bylaws, fundraising and identity) on Ethereum
+- Colony is [now in beta](https://t.umblr.com/redirect?z=https%3A%2F%2Fblog.colony.io%2Fcolony-beta-product-summary-2121a357d61d&t=YzdjMjA5OTEyYmQ1YjZlYTc1ZWE3NDM4NzY5ODA3MzNkNWIxYzk3MSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Podcast interview with Firstblood’s Head of Biz dev [Marco Cuesta](https://t.umblr.com/redirect?z=https%3A%2F%2Fsoundcloud.com%2Fblockchannelshow%2Fepisode-9-getting-gamers-on-ethereum-with-firstblood&t=ZGFhMTdmZmZlY2U0MjBkNjY4YmJjMThmYjg2YWIwNTIyZTg4MjIxOCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- [SuperDAO Overview](https://t.umblr.com/redirect?z=https%3A%2F%2Fblog.superdao.io%2Fon-superdao-simple-overview-of-an-efficient-dao-73efc74362a1%23.utfv66nec&t=YTE3NDBmM2RhYTYyY2EwN2YxNjVmMDljODM2YmFiYTA1NzVhOTU0YyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Blockjack is [live on the mainnet](https://t.umblr.com/redirect?z=http%3A%2F%2Fblockjack.io%2F&t=MmQ3MjBmNGNkYTc3NjliMmMyZWVmMjNjMDBmZGQ5ZTM5NzNlMTI2YSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- [IDEX](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fdecentralized-capital%2Fidex-is-live-on-the-mainnet-9d7c52e48889%23.s6pnmf9lt&t=OWViODYyODA4ZDM0MWRhZmVlODllZDUzMzEyMjYxODQxZTdiZTMzNyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) is also live on the mainnet
+
+**Token Sales**
+
+- A Beginner [Guide to Polkadot and Parachains](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40Paul.Haas%2Fa-dummies-guide-to-polkadot-and-parachains-93708bd90775%23.pc5qrq9de&t=NTc4OTlhOTE0NmI5MmQ4MmRmNWQ3YmQ5YTM4MGI2NmEyMWIwNWEyOSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Gnosis’ [design reasoning](https://t.umblr.com/redirect?z=https%3A%2F%2Fblog.gnosis.pm%2Fintroducing-the-gnosis-tokens-gno-and-wiz-5295a65c3822%23.y12b22yil&t=ZGIyODIxZWM0ZTFkODU4MmNlYjI1NjMwNDUwZWRhYjIwOWNjOTA2OCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) for their tokens
+    - Their followup the next day: [why so complicated?](https://t.umblr.com/redirect?z=https%3A%2F%2Fblog.gnosis.pm%2Fwhy-so-complicated-ddff533c5620%23.tjmsjg9uo&t=MmM5NzcxOWU1MmQ4ODcyMDY0ODE2YThhMzBjNzAxOWVkNDkyODYyMyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)  
+        
+- The [Cosmos Roadmap](https://t.umblr.com/redirect?z=https%3A%2F%2Fcosmos.network%2Fblog%2Fcosmos-roadmap&t=MTdiMjNiZTQ4OTg2YjkyZGUxZDg1NWJkYTEyZGNhNDA5ZjEzYzc4YixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- [Understanding the iEx.ec Architecture](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2Fiex-ec%2Fiexec-edcon-1-understanding-the-iex-ec-architecture-645c10f99e51%23.xpfsis2bl&t=MDMzMTQ0YjkyZGYwYTc5N2FkODFiOWMwMmI3MDk2NzE1ZTg3ZGQwMSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Simon de la Rouviere: [Exploring Continuous Token Models](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40simondlr%2Fexploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776%23.m1i6m3dhy&t=Y2ViNzI0MWNjMzI1ZDM4NjM4OTY1YTM2YjUyMzlhZTcxNzVmYzgyZSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+
+**General**
+
+- Vitalik: [The Meaning of Decentralization](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40VitalikButerin%2Fthe-meaning-of-decentralization-a0c92b76a274%23.ezsb3lcnx&t=MjI3MmYyNTAyMDdlZjU4ZWQ3YzlkOGVlZDg3ZjZiNGJiYzJkMzc5ZixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Microsoft: [Blockchain Smart Contracts for semi-trusted Consortium Networks](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedium.com%2F%40newgatemarleyg%2Fblockchain-smart-contracts-for-semi-trusted-consortium-networks-1d75651857e0&t=NzRlOWE0MDdjNzk5MDAzNmVkNTE4NWExMTUwZGExMTg4ZTZhZTliOCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+    - MSFT’s Marley Gray: the [3 tiered architecture for Cryptlets](https://t.umblr.com/redirect?z=https%3A%2F%2Fazure.microsoft.com%2Fen-in%2Fblog%2Fscanatomy-2%2F&t=ZTA5MDZhYmE1NTQ5MDJmZWE4N2U0MjNkMzY4ZThmYjhkYjVmNjNjOCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)  
+        
+- Two members of the US House formed a [Blockchain Caucus](https://t.umblr.com/redirect?z=http%3A%2F%2Fpolis.house.gov%2Fnews%2Fdocumentsingle.aspx%3FDocumentID%3D398291&t=YmEyNzgzYzg2NWFjMGQxMDJlZmUyY2QyOTE4ZmNlMTIwZGI5MjQ3YyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0).
+- Consensys: [The UN should use Ethereum](https://t.umblr.com/redirect?z=https%3A%2F%2Fmedia.consensys.net%2Fthe-un-needs-blockchain-to-achieve-its-goals-46ab5c46b8af%23.2kdrrb7w4&t=MDZmNjgyMTJlYTQ2MmJhMGFmZjgzNDM0ZDU1OGYyNzhlYzUwZTk1NyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) to attain its Sustainable Development Goals.
+    - A few days after publication, [Joe Lubin gave a presentation](https://twitter.com/DigCurS/status/830109381236760577) at the UN headquarters.  
+        
+- Vitalik on [what non-coders can do for Ethereum](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5sabnr%2Fhow_to_be_more_involved_without_knowing_how_to%2Fdde4m01%2F%3Fcontext%3D3&t=ZjIxNTBiZjYzMDE5N2MwYzI5Mjg2ODI4Njg5ODNjOWI5N2ViNWMyYSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- “As the relationship with Dubai deepens, ConsenSys is taking additional office space in Dubai and increasing personnel in the region.” – [IBTimes](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.ibtimes.co.uk%2Fethereum-studio-consensys-build-blockchains-dubai-1606062&t=ODhlNGJiZWRhZDM0OTQ2NzJlZTU1MmVmOWY3N2JmZTEzZjEwZTUzMSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+- Nick Szabo: [Money, blockchains, and social scalability](https://t.umblr.com/redirect?z=http%3A%2F%2Funenumerated.blogspot.nl%2F2017%2F02%2Fmoney-blockchains-and-social-scalability.html&t=MGUzODA2NmQ2MDgzMDBlZGIwY2RiZjJlM2RlNDcxM2IzZmRmYjJjMixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0)
+
+## Dates of note
+
+- Feb 13 – [Etheroll](https://t.umblr.com/redirect?z=http%3A%2F%2Fcrowdfund.etheroll.com%2F%23tab3&t=YWYxZmZhZTkwOGJhZjU1OWEyN2Y0ODcyNjFiZjU4Yjc5YjMwMDZmNSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale begins
+- Feb 14 – [Chronobank](https://t.umblr.com/redirect?z=https%3A%2F%2Fchronobank.io%2F&t=ODJhMjM3MWUzNmZlYTFkMDQ4ZGU4NjliMDc5ZmEzNTU4OTg5ODAwOCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) sale ends
+- Feb 15 – [Melonport sale](https://t.umblr.com/redirect?z=http%3A%2F%2Fmelonport.com%2F&t=ZjRkZTdiNmViYjM4NDljMjQxOGZjNzFiMDgyMmRjY2Y4NmJhN2M0YyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) begins (must check a box that you aren’t US Citizen)
+- Feb 17-18 – [Ethereum Euro Dev Conference](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2Fethereum%2Fcomments%2F5jjxnt%2Fannouncing_ethereum_european_development%2F&t=MDM1YTAxMWViOThlOTNkYzg3ZjdkZDJkOTRjMjBkNjQ4NmI5YjZkNCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) in Paris
+- Feb 27 – [Intellisys private equity “Mainstreet fund](http://t.umblr.com/redirect?z=http%3A%2F%2Fmainstreet.ky%2F&t=Y2U0YzYzZmMzMTc3NGZhNTRmMjkzMTI1YjQ2MWViYzE0MDI1NmE3YixhWlN6ZHViQQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=http%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F156205306748%2Fjanuary-22-2017&m=0)” sale begins (closed to US/EU citizens, KYC done by exchange for initial purchase and for dividends)
+- Feb 28 – [Contingency](https://t.umblr.com/redirect?z=https%3A%2F%2Fcontingency.tech%2F&t=YTU0MDJkMmE4YTA3YTdjZTY4OTMyNTNiMjQ5NDA1NzA2ZjZkOTZkYixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) sale ends
+- Mar 1 – [WeTrust](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.wetrust.io%2F&t=MzMxOGU5ZmUxNGRiM2U3ZTc1ZGU3MGYzNTg3ZTc3ZmJkNzM4NzExZCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale begins (1st day bonus, weekly price changes)
+- Mar 1 – [Qtum](https://t.umblr.com/redirect?z=https%3A%2F%2Fqtum.org%2F&t=YTQ3OGQzNzIyNzczOWQwMmRjNjRiNjhmZWM3ZWVlYjZlOTNlNzA4NCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) sale begins
+- Mar 15 – [SuperDAO](https://t.umblr.com/redirect?z=http%3A%2F%2Fcrowdfunding.superdao.io%2F&t=OWQ3MTJiNTlhN2U3YTZjZDcyYjA2MGZhMDUyZmYyNmMzOTMzMzNkNCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale begins
+- “Feb/Mar” – [iEx.ec token sale](https://t.umblr.com/redirect?z=http%3A%2F%2Fcrowdsale.iex.ec%2F&t=YmQ4MWVjNjBjZGYyMzMzNzRjZjE2MzgwY2M4OGI4NmU2MzcxMzM3OCxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) begins
+- “Feb/Mar” – [Gnosis](https://t.umblr.com/redirect?z=https%3A%2F%2Fgnosis.pm%2F&t=MjY1ZjlkODdmMjQ4MmI0NTY5MzViY2IzMDZjNjYwMzAxYmRiOWNjYyxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale likely to begin
+- “Feb/Mar” – [Humaniq](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.humaniq.co%2F&t=YWY2MWFlOGNlZmNlMzNhYmE4YmYwMzQ2NDBkNDAzMDE2NjFkZWU3ZixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale begins
+- “Late March” – [Matchpool](https://t.umblr.com/redirect?z=http%3A%2F%2Fmatchpool.co%2Fcrowdsale%2F&t=YWFkYTgzMDZhMmQ5YTIzMTMyOGJmMDcwYzBiNTA5YjhjODAzZWI3MixWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0) token sale begins
+
+\[I aim for a relatively comprehensive list of Ethereum sales, but make no warranty as to even whether they are legit; as such, I thus likewise warrant nothing about whether any will produce a satisfactory return. I have [passed the CFA exams](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.evanvanness.com%2Fpost%2F144767932386%2Fprepare-effectively-for-the-cfa-exam-how-to-skip&t=ZjkxYWM5NjAxNDdiOGZkNjYyZmE1YTM5NjRlZDBhZWU2MWM0NTk3MSxWeWJnd0RkTQ%3D%3D&b=t%3AQ8svKXOQOFn4j1wJ-IeWRA&p=https%3A%2F%2Fwww.weekinethereum.com%2Fpost%2F157186387648%2Ffebruary-12-2017&m=0), but this is not investment advice.\]
+
+## This is issue 26, so the newsletter has been around for half a year!
+
+**Thank you** for reading and subscribing.  It’s been a joy to write, even if occasionally some issues feel like work.  I’m thankful for all the tips, praise, links, and upvotes.  I’m also particularly thankful to have so many more smart people to chat with about Ethereum.  
+
+**Daily updates**?  Since early January, I’ve been considering doing daily updates.  I may test it out at some point soon.  Let me know at weekinethereum@gmail.com if you would subscribe to daily updates.
+
+Last week I asked for upvotes, and it worked. I appreciate it. The posts on r/ethereum and r/ethtrader both got many more upvotes than recent weeks.  The newsletter also added 56 subscribers last week, which is good mean-reversion to the long-term average.
+
+(Please use the weekinethereum.com link!)
+
+Just in case you want to send Ether (or tokens?):  0x96d4F0E75ae86e4c46cD8e9D4AE2F2309bD6Ec45
