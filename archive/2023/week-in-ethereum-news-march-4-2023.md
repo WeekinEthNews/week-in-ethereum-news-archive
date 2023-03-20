@@ -11,7 +11,7 @@ date: "2023-03-04"
 
 - [withdrawal-mainnet-shadowfork-2](https://twitter.com/abcoathup/status/1631783236748857344) successfully upgraded to Shapella, circuit breaker to local block building tested
 
-- Latest all core devs – consensus (ACDE) [call video](https://www.youtube.com/watch?v=GNhrb5txJ4M&t=168s). Notes from [Tim Beiko](https://twitter.com/timbeiko/status/1631371121399562245):
+- Latest all core devs – execution (ACDE) [call video](https://www.youtube.com/watch?v=GNhrb5txJ4M&t=168s). Notes from [Tim Beiko](https://twitter.com/timbeiko/status/1631371121399562245):
     - Goerli testnet Shapella upgrade scheduled for March 14, 10:25 PM UTC
     
     - Mainnet Shapella upgrade ~4 weeks after Goerli (assuming no issues), date to be selected at next ACDE call
