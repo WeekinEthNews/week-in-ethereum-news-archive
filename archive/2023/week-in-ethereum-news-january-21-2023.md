@@ -186,7 +186,7 @@ We’ll be at EthDenver if you want to [request a demo](https://airtable.com/shr
 
 - [BitConnect fraud victims](https://www.justice.gov/opa/pr/crypto-fraud-victims-receive-over-17-million-restitution-bitconnect-scheme) to share $17 million in restitution
 
-- [US DoJ pre-announced](https://twitter.com/thejusticedept/status/1615740967939674116) enforcement action, ended up being arrest of [Russian owner of Blitzlato exchange](https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million)
+- [US DoJ pre-announced](https://twitter.com/thejusticedept/status/1615740967939674116) enforcement action, ended up being arrest of [Russian owner of Bitzlato exchange](https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million)
 
 - [ConsenSys](https://consensys.net/blog/news/consensys-focuses-its-strategy-to-ensure-future-growth/) laying off ~100 employees
 
