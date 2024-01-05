@@ -25,7 +25,7 @@ date: "2023-09-02"
 - Client diversity (via [clientdiversity.org](https://clientdiversity.org/#distribution)):
     - Execution layer: Geth supermajority, could possibly cause a chain split
     
-    - Consensus layer: two clients over 33%, a bug could mean loss of liveness
+    - Consensus layer: two clients over 33%, a bug could mean loss of finality
 
 - Needed: more [geographic diversity for both stakers and nodes](https://nodewatch.io/), particularly outside of US/Can/EU
 

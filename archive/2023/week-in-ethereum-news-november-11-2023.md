@@ -21,7 +21,7 @@ date: "2023-11-11"
 - Client diversity (via [clientdiversity.org](https://clientdiversity.org/#distribution)):
     - Execution layer: Geth ~85% supermajority, could possibly cause a chain split
     
-    - Consensus layer: Prysm 43% & Lighthouse 34%, any client bug over 33.3% could mean loss of liveness
+    - Consensus layer: Prysm 43% & Lighthouse 34%, any client bug over 33.3% could mean loss of finality
 
 - [Geographic diversity needed for stakers & nodes](https://nodewatch.io/), particularly outside of US/Canada/EU
 
