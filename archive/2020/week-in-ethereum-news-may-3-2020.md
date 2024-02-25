@@ -30,7 +30,6 @@ date: "2020-05-03"
 ### This newsletter is made possible by [Chainlink](https://chain.link/)!
 
 - ![](https://weekinethereumnews.com/wp-content/uploads/2020/05/FE39n5_g.png)
-    
 
 Decentralized oracles are a key capability enabling smart contracts to reach their full potential. Come work with the leading team providing [oracles for Ethereum](http://feeds.chain.link/). Join us to help build the next generation of smart contracts in roles including [Software Engineering](https://careers.chain.link/o/senior-software-engineer-remote-new-york), [Developer Evangelism](https://careers.chain.link/o/developer-evangelist-global), [DevOps](https://careers.chain.link/o/site-reliability-engineer-global), [Product Management](https://careers.chain.link/o/product-manager-blockchain-integrations), and [more](https://careers.chain.link/). 
 
