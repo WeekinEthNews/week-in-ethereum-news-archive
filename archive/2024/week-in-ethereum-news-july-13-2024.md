@@ -222,7 +222,7 @@ _(new/changes in_ **_bold_**_)_
 
 - Sep 13-14 – [Ethereum México](https://ethmexico.org/)
 
-- **Sep 18-21 –** [**ETHCapeTown**](https://www.ethcapetown.com/) **hackathon**
+- **Sep 20-22 –** [**ETHCapeTown**](https://www.ethcapetown.com/) **hackathon**
 
 - Sep 20-22 – [ETHGlobal Singapore](https://ethglobal.com/events/singapore2024) hackathon
 
