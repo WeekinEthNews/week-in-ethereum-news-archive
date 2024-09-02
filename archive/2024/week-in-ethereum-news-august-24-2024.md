@@ -166,7 +166,7 @@ Eight years of Week in Ethereum News
 
 - Vitalik: [plurality philosophy](https://vitalik.eth.limo/general/2024/08/21/plurality.html)
 
-- 🎂 [Eight year anniversary](https://weekinethereumnews.com/page/416/) of Week in Ethereum News
+- 🎂 [Eight year anniversary](https://weekinethereumnews.com/week-in-ethereum-news-august-21-2016/) of Week in Ethereum News
 
 * * *
 
