@@ -86,7 +86,7 @@ Stakers can increase gas limit to 36M
 **Layer 2**
 
 - [RollCall #9](https://ethereum-magicians.org/t/rollcall-9-december-11-2024/21322) (L2 standards):
-    - Pectra upgrade: L2s don’t use or can work around fee history being removed and are are ok with not including EIP7762 as they work around min blob base fee
+    - Pectra upgrade: L2s don’t use or can work around fee history being removed and are ok with not including EIP7762 as they work around min blob base fee
     
     - Overview of L2 execution common core project
 
